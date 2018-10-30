@@ -8,14 +8,12 @@ date = 2018-10-30T00:00:00
 # Project summary to display on homepage.
 summary = "Research as Art"
 
-image_preview = ""
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Science Communication"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://researchasart.wordpress.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
