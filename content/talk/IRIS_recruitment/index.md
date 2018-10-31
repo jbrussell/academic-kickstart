@@ -39,7 +39,7 @@ tags = ["outreach", "diversity"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://jbrussell.github.io/slides/assets/player/KeynoteDHTMLPlayer.html#0"
+url_slides = "https://jbrussell.github.io/slides/russell_IRIS_slides_2018_reduced/assets/player/KeynoteDHTMLPlayer.html#0"
 url_video = ""
 url_code = ""
 
