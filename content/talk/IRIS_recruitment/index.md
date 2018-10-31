@@ -1,6 +1,6 @@
 +++
-title = "Example Talk"
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+title = "Pathways Into Geophysics and Seismology"
+date = 2018-10-30T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -12,8 +12,8 @@ time_start = 2018-10-18T13:00:00
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract = ""
+abstract_short = "A primer on geophysics and seismology as well as research opportunities for undergraduates."
 
 # Name of event and optional event URL.
 event = "IRIS Recruitment Lecture Series"
@@ -57,14 +57,6 @@ math = true
   focal_point = "Right"
 +++
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
+In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS <a href="https://www.iris.edu/hq/internship/blogs/user/80">IRIS</a> and <a href="http://resess.unavco.org/people/alumni/2014/russell/russell.html">UNAVCO RESESS</a> emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the <a href="https://www.iris.edu/hq/internship/recruitment">IRIS Recruitment Lecture Series</a>. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:
 
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's *Slides* feature and link using `url_slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+<img src="IRIS_lecture.jpg" alt="IRIS Lecture">

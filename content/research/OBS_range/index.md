@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "NoMelt: high-resolution constraints on oceanic lithosphere anisotropy"
+title = "OBSrange: A new tool for the precise location of ocean bottom seismometers"
 
 # Date this page was created.
 date = 2018-10-30T00:00:00
 
 # Project summary to display on homepage.
-summary = "In situ constraints on Pacific lithosphere."
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["seismic anisotropy", "surface waves"]
+tags = ["OBS instrumentation", "inverse theory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

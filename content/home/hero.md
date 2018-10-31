@@ -32,7 +32,7 @@ weight = 3
   <div style="display: table-cell; vertical-align: middle;">
     <div>
       <font size="-1" color="white">
-      View off the back of the R/V Kilo Moana in the South Pacific during the Young Pacific ORCA deployment (April 2018)
+      View of the south Pacific off the stern of the R/V Kilo Moana during the Young Pacific ORCA deployment (April 2018)
       </font>
     </div>
   </div>
