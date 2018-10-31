@@ -35,4 +35,4 @@ weight = 5
 
 # About Me
 
-I am a graduate student studying seismology at the Lamont-Doherty Earth Observatory at Columbia University. My research focuses primarily on surface-wave imagining of the oceanic lithosphere-asthenosphere system.
+I am a PhD student studying seismology at the Lamont-Doherty Earth Observatory at Columbia University. My research focuses primarily on surface-wave imaging of the oceanic lithosphere-asthenosphere system.
