@@ -13,7 +13,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "A primer on geophysics and seismology as well as research opportunities for undergraduates."
+abstract_short = "A primer on geophysics and seismology career paths as well as research opportunities for undergraduates."
 
 # Name of event and optional event URL.
 event = "IRIS Recruitment Lecture Series"
@@ -39,7 +39,7 @@ tags = ["outreach", "diversity"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://jbrussell.github.io/slides/russell_IRIS_slides_2018_reduced/assets/player/KeynoteDHTMLPlayer.html#0"
+url_slides = "https://jbrussell.github.io/slides/russell_IRIS_slides_2018_reduced/"
 url_video = ""
 url_code = ""
 
@@ -57,6 +57,6 @@ math = true
   focal_point = "Right"
 +++
 
-In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the IRIS <a href="https://www.iris.edu/hq/internship/blogs/user/80">IRIS</a> and <a href="http://resess.unavco.org/people/alumni/2014/russell/russell.html">UNAVCO RESESS</a> emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the <a href="https://www.iris.edu/hq/internship/recruitment">IRIS Recruitment Lecture Series</a>. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:
+In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the <a href="https://www.iris.edu/hq/internship/blogs/user/80">IRIS</a> and <a href="http://resess.unavco.org/people/alumni/2014/russell/russell.html">UNAVCO RESESS</a> emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the <a href="https://www.iris.edu/hq/internship/recruitment">IRIS Recruitment Lecture Series</a>. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:
 
 <img src="IRIS_lecture.jpg" alt="IRIS Lecture">

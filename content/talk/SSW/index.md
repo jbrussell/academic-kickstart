@@ -1,5 +1,5 @@
 +++
-title = "Constraints on radial anisotropy in the central Pacific"
+title = "Constraints on radial anisotropy of ~70 Ma oceanic lithosphere"
 date = 2018-10-29T00:00:00  # Schedule page publish date.
 draft = false
 
