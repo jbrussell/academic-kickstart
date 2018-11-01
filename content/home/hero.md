@@ -43,7 +43,7 @@ weight = 3
 </div>
 
 
-<a class="button" href="#contact"><i class="fas fa-chevron-circle-down"></i> PROJECTS</a>
+<a class="button" href="#research"><i class="fas fa-chevron-circle-down"></i> PROJECTS</a>
 
 <a class="button" href="#contact"><i class="fas fa-envelope"></i> CONTACT</a>
 
