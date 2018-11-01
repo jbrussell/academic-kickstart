@@ -19,12 +19,12 @@ weight = 3
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-#[cta]
-#  url = "./post/getting-started/"
-#  label = '<i class="fas fa-download"></i> Install Now'
+[cta]
+  url = "#research"
+  label = '<i class="fas fa-chevron-circle-down"></i> PROJECTS'
 +++
 
-<center><font size="+15">WELCOME</font></center>
+<center><font size="+15"><b>JOSHUA RUSSELL</b></font></center>
 <div class="bottom"><font size="-1"></font></div>
 
 <center>
@@ -39,6 +39,6 @@ weight = 3
 </div>
 </center>
 
-<div style="margin-top: -22rem;">
+<div style="margin-top: -28rem;">
 </div>
 

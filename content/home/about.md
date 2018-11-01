@@ -22,7 +22,7 @@ weight = 5
 #  year = 2012
 
 [[education.courses]]
-  course = "MA in Earth and Environmental Sciences"
+  course = "MA in Seismology"
   institution = "Columbia University"
   year = 2017
 

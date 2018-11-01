@@ -6,7 +6,7 @@ title = "Research As Art"
 date = 2018-10-30T00:00:00
 
 # Project summary to display on homepage.
-summary = "Research as Art"
+summary = "The earth sciences are particularly visual, and often figures produced are quite literally 'works of art'. Research as Art aims to showcase this scientific art from researchers across the Lamont-Doherty Earth Observatory community."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
