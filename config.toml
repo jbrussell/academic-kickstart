@@ -177,7 +177,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = []
 
   # Publication types.
@@ -300,10 +300,10 @@ enableGitInfo = false
   url = "#research"
   weight = 2
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 3
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 3
 
 [[menu.main]]
   name = "Talks"
@@ -320,12 +320,17 @@ enableGitInfo = false
  [[menu.main]]
     name = "CV"
     url = "files/RussellJ_CV.pdf"
-    weight = 6
+    weight = 9
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Photography"
+  url = "#photography"
   weight = 7
+
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 8
 
 # Search.
 [params.search]

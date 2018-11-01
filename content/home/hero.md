@@ -19,9 +19,9 @@ weight = 3
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-  url = "#research"
-  label = '<i class="fas fa-chevron-circle-down"></i> PROJECTS'
+#[cta]
+#  url = "#research"
+#  label = '<i class="fas fa-chevron-circle-down"></i> PROJECTS'
 +++
 
 <center><font size="+15"><b>JOSHUA RUSSELL</b></font></center>
@@ -39,6 +39,12 @@ weight = 3
 </div>
 </center>
 
-<div style="margin-top: -28rem;">
+<div style="margin-top: -31rem;">
 </div>
+
+
+<a class="button" href="#contact"><i class="fas fa-chevron-circle-down"></i> PROJECTS</a>
+
+<a class="button" href="#contact"><i class="fas fa-envelope"></i> CONTACT</a>
+
 

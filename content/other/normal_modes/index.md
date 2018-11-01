@@ -30,59 +30,47 @@ This video is a contribution by [Celia Eddy](https://www.celiaeddy.com/) and I t
 
 <iframe src="https://player.vimeo.com/video/215665951" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-After a large earthquake, Earth's normal modes vibrate like waves on a guitar string. If the earthquake is large enough, the Earth can 'ring' for days or weeks. This video demonstrates both visually and sonically these free oscillations of the Earth after the M6.9 earthquake that occurred off the coast of Fiji on 2/24/2017.
+After a large earthquake, the Earth vibrates like waves on a guitar string -- These discrete modes of vibration are called normal modes or free oscillations. If the earthquake is large enough, the Earth can 'ring' for days or weeks. This video uses synthetic waveform simulations to demonstrate both visually and sonically these free oscillations of the Earth after the [M6.9](https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t/executive#executive) earthquake that occurred off the coast of Fiji on 2/24/2017.
 
-The video is composed of three separate but related animations. Each animation show how the waves travel along the surface of the earth, displayed as a circular ring. This 2-dimensional ring is made up of 2,000 points on the Earth's surface that display ground motion for 48 hours after the earthquake.
+The video is composed of three separate-but-related animations. Each animation show how the waves travel along the surface of the earth, displayed as a circular ring. This 2-dimensional ring is made up of 2,000 points on the Earth's surface that display ground motion for 48 hours after the earthquake.
 
-## Animation 1: Surface waves
-* **AUDIO :** 
-* **VIDEO :**
-
+## Animation 1: Surface and Body Waves
+We are *listening* to a waveform at the antipode of the Earth from the M6.9 in Fiji. The synthetic waveforms are calculated using [Instaseis](http://instaseis.net/). To make the sound, many narrow band filters are used to decompose the seismic waveform into its constituent frequency components (**Fig. 1**). Each individual waveform is then assigned to an oscillator of a specific frequency.
 <figure>
 <img src="comb.jpg" width="700px">
 <figcaption>
   <font color="gray">
   <small>
-      Fig 1. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+      <b>Fig 1.</b> Narrow band filtered seismograms.
   </small>
   </font>
 </figcaption>
 </figure>
+
+## Animation 2: Normal Modes
+The first 8 gravest (lowest frequency) spheroidal modes are extracted from 48 hour seismograms (**Fig. 2**). This animation shows the shapes of these modes in color and the superposition of the modes in white, starting from the lowest frequency and incrementally adding higher modes. Each mode is mapped to a tone that we can hear, where the relative frequencies of the tones are preserved. By the end of the animation, you can begin to see surface waves propagating back and forth.
 
 <figure>
 <img src="peaks.jpg" width="700px">
 <figcaption>
   <font color="gray">
   <small>
-      Fig 2. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+     <b>Fig 2.</b> Discrete frequencies for the 8 gravest modes.
   </small>
   </font>
 </figcaption>
 </figure>
 
+## Animation 3: Attenuation
+This animation is similar to **Animation 2** except this time, all the modes are played at once. The tone of each mode is modulated in time by the amplitude envelopes in **Fig. 3**. Through time, the high frequencies die out due to anelastic attenuation and all that is left are the lowest frequency modes. In this video, you can actually hear this attenuation!
 <figure>
 <img src="envelopes.jpg" width="700px">
 <figcaption>
   <font color="gray">
   <small>
-      Fig 3. Drift patterns of the 30 OBS of the 2018 Young Pacific Orca deployment. A clockwise mesoscale gyre can be observed that correlates in space and time with geostrophic flow patterns.
+      <b>Fig 3.</b> Amplitude envelopes from each of the modes from Fig 2.
   </small>
   </font>
 </figcaption>
 </figure>
 
-
-
-After a large earthquake, waves bounce around inside the earth for hours and sometimes days. These audio-visualizations show how these waves travel along the surface of the earth, displayed as a ring. This 2-dimensional ring is made up of 2,000 points on the earth's surface that display ground motion after an earthquake.
-
-Audiovisual of the M6.9 earthquake that occurred off the coast of Fiji on 2/24/2017. 
-
-VISUAL: Synthetic seismograms were generated at 2000 points on the earth's surface using Instaseis. Both the vertical (Z) and radial (R) components are visualized, resulting in elliptical patterns. Can you spot the Rayleigh waves? 
-
-AUDIO: We are listening to the antipode (bottom of the circle) where our "microphone" is denoted by the red circle. The seismogram at the antipode is sonified using a new resynthesis technique that captures frequency content of the waveform more accurately than direct sonification.
-
-Audiovisual demonstration where traveling waves are generated by the sum of many standing waves (normal modes) at the Earth's surface.
-
-VIDEO: shows 9 of Earth's observable lowest frequency normal modes (color rings) with tones corresponding to the center frequency of each mode. Higher frequency modes are represented by cool colors and low frequencies by warm colors. The outer ring (white) represents the sum of the colored rings. Can you spot the waves traveling through the ring?
-
-AUDIO: The loudness of each tone is modulated by its amplitude envelope. Notice how the chord evolves over time as the higher frequencies die away.
