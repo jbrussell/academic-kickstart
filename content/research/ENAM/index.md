@@ -3,7 +3,7 @@
 title = "ENAM: Seismic anisotropy offshore eastern North America"
 
 # Date this page was created.
-date = 2018-10-30T00:00:00
+date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
 summary = "The goal of this project is to better understand the anisotropic structure of old Atlantic lithosphere."

@@ -1,9 +1,9 @@
 +++
 # Project title.
-title = "Wave propagation: Love wave Overtone interference"
+title = "Wave propagation: Love wave overtone interference"
 
 # Date this page was created.
-date = 2018-11-01T00:00:00
+date = 2018-10-28T00:00:00
 
 # Project summary to display on homepage.
 summary = "Love wave propagation is complex in oceanic environments due to the pronounced low velocity zone (LVZ). I work to better understand these complexities in order to make use of Love wave observations in oceanic environments."

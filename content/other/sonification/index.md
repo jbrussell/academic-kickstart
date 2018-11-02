@@ -3,7 +3,7 @@
 title = "Earthquake Sonification"
 
 # Date this page was created.
-date = 2018-10-30T00:00:00
+date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
 summary = "Earthquakes are recorded as seismograms. When compressed in time, these seismograms are equivalent to sound waves."

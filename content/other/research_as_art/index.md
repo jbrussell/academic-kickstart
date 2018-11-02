@@ -3,7 +3,7 @@
 title = "Research As Art"
 
 # Date this page was created.
-date = 2018-10-30T00:00:00
+date = 2018-10-28T00:00:00
 
 # Project summary to display on homepage.
 summary = "The earth sciences are particularly visual, and often figures produced are quite literally 'works of art'. Research as Art aims to showcase this scientific art from researchers across the Lamont-Doherty Earth Observatory community."
