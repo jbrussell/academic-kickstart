@@ -25,13 +25,14 @@ weight = 3
 +++
 
 <center><font size="+15" face="montserrat"><b>JOSHUA RUSSELL</b></font></center>
+<center><font size="5" face="montserrat">GEOPHYSICS | SEISMOLOGY | EARTH STRUCTURE</font></center>
 <div class="bottom"><font size="-1"></font></div>
 
 <center>
 <div style="display: table; height: 700px; overflow: hidden;">
   <div style="display: table-cell; vertical-align: middle;">
     <div>
-      <font size="-1" color="white">
+      <font size="-1" color="white" face="montserrat">
       View of the south Pacific off the stern of the R/V Kilo Moana during the Young Pacific ORCA deployment (April 2018)
       </font>
     </div>
