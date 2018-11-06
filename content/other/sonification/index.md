@@ -6,7 +6,7 @@ title = "Earthquake Sonification"
 date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
-summary = "Earthquakes are recorded as seismograms. When compressed in time, these seismograms are equivalent to sound waves."
+summary = "Earthquakes produce seismic waves that are recorded by seismometers. We can listen to these waves by compressing the seismograms!"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Birds"
+title = "Wildlife"
 
 # Date this page was created.
-date = 2018-10-30T00:00:00
+date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
-summary = "I am also a self-proclaimed bird nerd!"
+summary = "When I am not being a graduate student, I enjoy escaping the city to chase birds and other wildlife."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

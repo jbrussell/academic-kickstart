@@ -6,7 +6,7 @@ title = "Fieldwork"
 date = 2018-10-30T00:00:00
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Fieldwork photos from Central Turkey to the South Pacific."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -40,9 +40,9 @@ caption = ""
 
 +++
 
+### UNDER CONSTRUCTION...
+
 ### CD-CAT Experiment, Central Turkey, 2015
 {{< gallery >}}
 
 ### Young Pacific ORCA, South Pacific, 2018
-
-{{< gallery >}}

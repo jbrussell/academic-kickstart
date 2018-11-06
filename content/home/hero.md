@@ -24,7 +24,7 @@ weight = 3
 #  label = '<i class="fas fa-chevron-circle-down"></i> PROJECTS'
 +++
 
-<center><font size="+15"><b>JOSHUA RUSSELL</b></font></center>
+<center><font size="+15" face="montserrat"><b>JOSHUA RUSSELL</b></font></center>
 <div class="bottom"><font size="-1"></font></div>
 
 <center>
