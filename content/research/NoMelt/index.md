@@ -10,10 +10,28 @@ summary = "The goal of this project is to comprehensively characterize the aniso
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["seismic anisotropy", "surface waves", "ambient noise"]
+tags = ["Seismic Anisotropy", "Surface Waves", "Ambient Noise"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Links (optional).
+url_pdf = "test"
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/JBRussell_"}]
 
 math = true
 
@@ -26,6 +44,9 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+  
+  # Show image only in page previews?
+  preview_only = true
 +++
 
 <div>

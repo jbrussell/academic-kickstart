@@ -102,7 +102,7 @@ a,
 h3.article-title a:hover {
   color: {{ .Get "link" }};
   text-decoration: none;
-  transition: color 0.6s ease;
+  transition: color 0.3s ease;
 }
 
 a:hover,
@@ -441,7 +441,7 @@ a[data-fancybox] img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation: intro 0.3s both;
+  animation: intro 0.4s both;
   animation-delay: 0s;
   animation-delay: 0.25s;
 }
@@ -474,7 +474,12 @@ a[data-fancybox] img {
 }
 
 .hero-overlay .btn-lg {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -550%);
 }
 
 /*************************************************
@@ -692,12 +697,6 @@ article {
   margin-left: auto;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-}
-
-/* Prevent FA's line height of 1 causing FA button links to be taller than other button links. */
-.btn-links .fab,
-.btn-links .fas {
-  line-height: inherit !important;
 }
 
 .split-header-image {
@@ -963,7 +962,7 @@ article .article-metadata {
   line-height: 30px; /* Match share bar line height. */
 }
 
-.pub-row-heading {
+.pub .pub-row-heading {
   font-weight: bold;
 }
 
@@ -989,7 +988,7 @@ article .article-metadata {
   color: rgba(255,255,255,0.54);
 }
 
-.pub-list-item .btn-links {
+.pub-list-item .pub-links {
   padding-top: 10px;
 }
 
@@ -1088,14 +1087,6 @@ article .article-metadata {
 
 .project-item {
   margin-bottom: 1.5rem;
-}
-
-.project-showcase .project-item {
-  margin-bottom: 3rem;
-}
-
-.project-item:last-of-type {
-  margin-bottom: 0;
 }
 
 .isotope-item {
@@ -1419,6 +1410,7 @@ a.badge:hover {
 
 .navbar {
   min-height: 70px !important;
+  height: 51px;
 }
 
 .navbar-light {

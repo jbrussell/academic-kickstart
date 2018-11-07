@@ -35,7 +35,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["seismic anisotropy", "oceanic lithosphere"]
+tags = ["Seismic Anisotropy", "Oceanic Lithosphere"]
 
 # Links (optional).
 url_pdf = ""
@@ -55,5 +55,8 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
+  
+  # Show image only in page previews?
+  preview_only = true
 +++
 
