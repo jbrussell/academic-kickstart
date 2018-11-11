@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Ocean bottom seismology",
+    "Structure and evolution of oceanic lithosphere",
     "Surface-wave imaging",
-    "Seismic Anisotropy",
-    "Structure and evolution of oceanic lithosphere"
+    "Seismic anisotropy",
   ]
 
 # List your qualifications (such as academic degrees).
