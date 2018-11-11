@@ -24,7 +24,7 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/jbrussell/datamovies"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -48,3 +48,4 @@ external_link = ""
 +++
 
 ### UNDER CONSTRUCTION...
+

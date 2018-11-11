@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = "test"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
