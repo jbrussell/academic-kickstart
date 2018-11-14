@@ -57,41 +57,19 @@ The video is composed of three separate-but-related animations. Each animation s
 
 ## Animation 1: Surface and Body Waves
 We are *listening* to a waveform at the antipode of the Earth from the M6.9 in Fiji. The synthetic waveforms are calculated using [Instaseis](http://instaseis.net/). To make the sound, many narrow band filters are used to decompose the seismic waveform into its constituent frequency components (**Fig. 1**). Each individual waveform is then assigned to an oscillator of a specific frequency.
-<figure>
-<img src="comb.jpg" width="700px">
-<figcaption>
-  <font color="gray">
-  <small>
-      <b>Fig 1.</b> Narrow band filtered seismograms.
-  </small>
-  </font>
-</figcaption>
-</figure>
+
+{{< figure src="comb.jpg" title="Narrow band filtered seismograms." numbered="true" width="100%">}}
+
 
 ## Animation 2: Normal Modes
 The first 8 gravest (lowest frequency) spheroidal modes are extracted from 48 hour seismograms (**Fig. 2**). This animation shows the shapes of these modes in color and the superposition of the modes in white, starting from the lowest frequency and incrementally adding higher modes. Each mode is mapped to a tone that we can hear, where the relative frequencies of the tones are preserved. By the end of the animation, you can begin to see surface waves propagating back and forth.
 
-<figure>
-<img src="peaks.jpg" width="700px">
-<figcaption>
-  <font color="gray">
-  <small>
-     <b>Fig 2.</b> Discrete frequencies for the 8 gravest modes.
-  </small>
-  </font>
-</figcaption>
-</figure>
+{{< figure src="peaks.jpg" title="Discrete frequencies for the 8 gravest modes." numbered="true" width="100%">}}
+
 
 ## Animation 3: Attenuation
 This animation is similar to **Animation 2** except this time, all the modes are played at once. The tone of each mode is modulated in time by the amplitude envelopes in **Fig. 3**. Through time, the high frequencies die out due to anelastic attenuation and all that is left are the lowest frequency modes. In this video, you can actually hear this attenuation!
-<figure>
-<img src="envelopes.jpg" width="700px">
-<figcaption>
-  <font color="gray">
-  <small>
-      <b>Fig 3.</b> Amplitude envelopes from each of the modes from Fig 2.
-  </small>
-  </font>
-</figcaption>
-</figure>
+
+{{< figure src="envelopes.jpg" title="Amplitude envelopes for each of the modes in Fig 2." numbered="true" width="100%">}}
+
 

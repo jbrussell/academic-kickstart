@@ -6,7 +6,7 @@ title = "Wildlife"
 date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
-summary = "When I am not being a graduate student, I enjoy escaping the city to chase birds and other wildlife."
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,7 +28,7 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/JBRussell_"}]
+url_custom = [{icon_pack = "fab", icon="flickr", name="flickr", url = "https://www.flickr.com/photos/131315327@N04/"}]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -39,7 +39,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Russell et al. (2018)"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -48,7 +48,7 @@ math = true
   # Show image only in page previews?
   preview_only = true
   
-  [[gallery_item]]
+[[gallery_item]]
 album = "1"
 image = "https://farm1.staticflickr.com/613/31262395574_61efed8695_z.jpg"
 caption = "Red-vented Bulbul, Honolulu, HI"
@@ -91,4 +91,4 @@ caption = "Roseate Spoonbill, Houston, TX"
 +++
 
 
-{{< gallery >}}
+{{< gallery album="1" >}}

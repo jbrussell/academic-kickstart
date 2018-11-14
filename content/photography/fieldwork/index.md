@@ -58,12 +58,16 @@ album = "2"
 image = "https://farm8.staticflickr.com/7741/18211198151_ed72a9f0d9_z.jpg"
 caption = ""
 
+#[[gallery_item]]
+#album = "<ALBUM FOLDER>"
+#image = "<IMAGE NAME>.jpg"
+#caption = "Write your image caption here"
 
 +++
 
 ### UNDER CONSTRUCTION...
 
 ### CD-CAT Experiment, Central Turkey, 2015
-{{< gallery >}}
+{{< gallery album="1">}}
 
 ### Young Pacific ORCA, South Pacific, 2018

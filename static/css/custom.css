@@ -1,4 +1,4 @@
-/* Button for hero */
+/* ********* Button for hero ********* */
 .button {
   display: inline-block;
   padding: 0.5px 13px;
@@ -30,7 +30,7 @@
   text-decoration: none;
 }
 
-/* Button for hero, version 2 */
+/* ********* Button for hero, version 2 ********* */
 .button2 {
   display: inline-block;
   padding: 0.5px 13px;
@@ -61,7 +61,7 @@
   text-decoration: none;
 }
 
-/* Button for hero, version 3 */
+/* ********* Button for hero, version 3 ********* */
 .button3 {
   display: inline-block;
   padding: 10px 20px;
@@ -90,7 +90,7 @@
   text-decoration: none;
 }
 
-/* Project cards */
+/* ********* Project cards ********* */
 
 .card .card-text p {
   color: rgba(0,0,0,0.9);
@@ -101,9 +101,9 @@
   content: "";
 }
 
-/* Main Font */
+/* ********* Main Font ********* */
 html {
-  color: rgba(0,0,0,0.8);
+  color: rgba(0,0,0,0.7) !important;
 }
 
 @media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
@@ -113,9 +113,45 @@ html {
   }
 }
 
-/* Navigation bar */
+/* ********* Navigation ********* bar */
 .navbar {
   min-height: 51px !important;
   height: 51px;
 }
 
+/* ********* Reduce size of figure captions and lighten the color ********* */
+figcaption {
+  display: block;
+  margin-top: 0.75em;
+  line-height: 1.25;
+  font-size: 0.9rem;
+  margin-bottom: 1.65rem;
+/*   font-family: lato; */
+  color: rgba(0,0,0,0.5);
+}
+
+figcaption.numbered:before {
+  font-weight: 700;
+  text-transform: uppercase;
+  content: attr(data-pre) counter(captions) attr(data-post);
+}
+
+figcaption.numbered {
+  counter-increment: captions;
+}
+
+figcaption h4 {
+  display: inline;
+  font-size: 0.9rem;
+  font-weight: 400;
+  margin: 0;
+/*   font-family: lato; */
+  color: rgba(0,0,0,0.5);
+}
+
+/* ********* Remove Footer ********* */
+footer p {
+/*   font-size: 0.75rem; */
+  font-size: 0rem;
+  text-align: center;
+}

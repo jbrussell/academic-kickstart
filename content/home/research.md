@@ -45,8 +45,8 @@ filter_default = 0
    tag = "Seismic Anisotropy"
 
  [[filter]]
-   name = "OBS Instrumentation"
-   tag = "OBS Instrumentation"
+   name = "Tools"
+   tag = "Tools"
    
   [[filter]]
    name = "Wave Propagation"
