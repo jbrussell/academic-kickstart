@@ -110,10 +110,10 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = ""
+  sharing_image = "headers/darkOBS3_3.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "JBRussell_"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -132,7 +132,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -164,8 +164,8 @@ enableGitInfo = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["python","matlab"]
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
