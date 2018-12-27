@@ -21,7 +21,7 @@ tags = ["Tools","OBS Instrumentation", "Inverse Theory"]
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/OBSrange.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
