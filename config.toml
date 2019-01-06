@@ -266,6 +266,11 @@ enableGitInfo = false
     link = "https://scholar.google.com/citations?user=aaqkjicAAAAJ&hl=en"
 
   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Joshua_Russell8"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fab"
     link = "https://github.com/jbrussell"
