@@ -24,7 +24,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = "pdf/Russell_et_al_2018_JGR.pdf"
+url_pdf = "pdf/Russell_et_al_2019_JGR.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
