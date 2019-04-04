@@ -24,7 +24,7 @@ slides = ""
 url_pdf = "pdf/OBSrange.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/jbrussell/OBSrange"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
