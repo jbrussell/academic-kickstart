@@ -31,7 +31,7 @@ weight = 3
     <div>
       <font size="-1" color="#e6e6e6" face="montserrat">
       <i>
-      Global background seismicity since 1990 and great circle paths for 150 earthquakes recorded on the NoMelt OBS array in 2013.
+      Global background seismicity since 1990 and great circle paths for 150 earthquakes >M5.5 recorded on the NoMelt OBS array in 2012.
       </i>
       </font>
     </div>
