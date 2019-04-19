@@ -22,14 +22,14 @@ weight = 3
 +++
 <!-- <center><font size="+15" color="#e6e6e6" face="montserrat"><b>JOSHUA RUSSELL</b></font></center> -->
 <!-- <center><font size="6" color="#e6e6e6" face="ubuntu"><b>GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE</b></font></center> -->
-<a class="button3" href="#about"><font face="montserrat"> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
+<a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"><b> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
 <div class="bottom"><font size="-1"></font></div>
 
 <center>
 <div style="display: table; height: 700px; overflow: hidden;">
   <div style="display: table-cell; vertical-align: middle;">
     <div>
-      <font size="-1" color="#e6e6e6" face="montserrat">
+      <font size="-1" color="#d6d6d6" face="montserrat">
       <i>
       Global background seismicity since 1990 and great circle paths for 150 earthquakes >M5.5 recorded at the NoMelt OBS array in 2012.
       </i>
