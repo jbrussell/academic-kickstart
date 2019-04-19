@@ -13,7 +13,7 @@ weight = 3
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/darkOBS3_NoMelt2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/darkOBS3_NoMelt2_vignette.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -31,7 +31,7 @@ weight = 3
     <div>
       <font size="-1" color="#e6e6e6" face="montserrat">
       <i>
-      Global background seismicity since 1990 and great circle paths for 150 earthquakes >M5.5 recorded on the NoMelt OBS array in 2012.
+      Global background seismicity since 1990 and great circle paths for 150 earthquakes >M5.5 recorded at the NoMelt OBS array in 2012.
       </i>
       </font>
     </div>
