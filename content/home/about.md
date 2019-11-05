@@ -23,6 +23,11 @@ weight = 5
 #  year = 2012
 
 [[education.courses]]
+  course = "MPhil in Seismology"
+  institution = "Columbia University"
+  year = 2019
+
+[[education.courses]]
   course = "MA in Seismology"
   institution = "Columbia University"
   year = 2017
