@@ -6,7 +6,7 @@ title = "NoMelt: seismic constraints on oceanic lithosphere petrofabric"
 date = 2018-10-30T00:00:00
 
 # Project summary to display on homepage.
-summary = "The goal of this project is to comprehensively characterize the anisotropic structure of ~70 Ma oceanic lithosphere. This will help us better understand mid ocean ridge processes as well as the evolution of oceanic lithosphere."
+summary = "We have comprehensively characterized the anisotropic structure of ~70 Ma oceanic lithosphere. This has helped us better understand mid-ocean ridge processes and the evolution of oceanic basins."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

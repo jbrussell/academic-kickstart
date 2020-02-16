@@ -6,7 +6,7 @@ title = "OBSrange: A new tool for the precise location of ocean bottom seismomet
 date = 2018-10-30T00:00:00
 
 # Project summary to display on homepage.
-summary = "We have developed a new tool called OBSrange for precisely locating ocean bottom seismometers (OBS) on the seafloor. The tool is written in both Python and MATLAB and open for use by the scientific community."
+summary = "OBSrange is a robust, efficient, open-source OBS location code available in both MATLAB and Python."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

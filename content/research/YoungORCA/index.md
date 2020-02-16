@@ -1,16 +1,19 @@
 +++
 # Project title.
-title = "Wave propagation: Love wave overtone interference"
+title = "Young ORCA: Searching for small-scale convection in the south Pacific"
 
 # Date this page was created.
-date = 2018-10-28T00:00:00
+date = 2020-02-16T00:00:00
 
 # Project summary to display on homepage.
-summary = "Love wave propagation is complex in ocean environments consisting of strong overtone interference. We aim to utilize these higher modes in order to image velocity structure to deeper depths."
+summary = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Wave Propagation", "Love Waves", "Overtones"]
+tags = ["Seismic Anisotropy", "Surface Waves", "Ambient Noise"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -24,20 +27,19 @@ slides = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/jbrussell/mat-LRTdisp"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/JBRussell_"}]
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Russell et al. (2018)"
+  caption = "Russell et al. (2020)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -47,4 +49,4 @@ external_link = ""
   preview_only = true
 +++
 
-### UNDER CONSTRUCTION...
+UNDER CONSTRUCTION
