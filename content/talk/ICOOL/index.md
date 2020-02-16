@@ -16,7 +16,7 @@ abstract = "Seismic anisotropy of the oceanic lithosphere offers a window into m
 abstract_short = "Combining P and S constraints in the shallow lithosphere, we provide a first in-situ constraint on olivine fabric type in the oceanic upper mantle beneath NoMelt."
 
 # Name of event and optional event URL.
-event = "International Conference on Ophiolites and the Oceanic Lithosphere"
+event = "International Conference on Ophiolites and the Oceanic Lithosphere 2020"
 event_url = "https://conferences.squ.edu.om/icool/"
 
 # Location of event.

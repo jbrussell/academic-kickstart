@@ -23,12 +23,23 @@ weight = 3
 <!-- <center><font size="+15" color="#e6e6e6" face="montserrat"><b>JOSHUA RUSSELL</b></font></center> -->
 <!-- <center><font size="6" color="#e6e6e6" face="ubuntu"><b>GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE</b></font></center> -->
 
-<!-- <a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"><b> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
-<div class="bottom"><font size="-1"></font></div> -->
+<a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </font></a>
+<div class="bottom"><font size="-1"></font></div>
+
+<div style="display: table; height: 300px; overflow: hidden;">
+  <div style="display: table-cell; vertical-align: top;">
+    <div>
+      <font size="-1" color="#d6d6d6" face="montserrat">
+      <i>
+      </i>
+      </font>
+    </div>
+  </div>
+</div>
 
 <center>
 <div style="display: table; height: 800px; overflow: hidden;">
-  <div style="display: table-cell; vertical-align: middle;">
+  <div style="display: table-cell; vertical-align: top;">
     <div>
       <font size="-1" color="#d6d6d6" face="montserrat">
       <i>
@@ -40,5 +51,5 @@ weight = 3
 </div>
 </center>
 
-<div style="margin-top: -22rem;">
+<div style="margin-top: -50rem; margin-bottom: -30rem">
 </div>
