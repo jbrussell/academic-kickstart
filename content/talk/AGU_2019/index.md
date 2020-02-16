@@ -31,7 +31,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["YoungORCA"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -58,7 +58,13 @@ math = true
   
   # Show image only in page previews?
   preview_only = true
+  
+[[gallery_item]]
+  album = "poster"
+  image = "poster.png"
+  caption = "AGU 2019 Poster"
 +++
 
-<img src="featured.png" alt="AGU 2019 Poster">
+<!-- <img src="featured.png" alt="AGU 2019 Poster"> -->
+{{< gallery album="poster" >}}
 

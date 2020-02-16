@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Mantle dynamics",
     "Ocean bottom seismology",
     "Structure and evolution of oceanic lithosphere",
     "Surface-wave imaging",

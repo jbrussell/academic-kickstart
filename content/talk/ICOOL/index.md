@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2020-01-12T00:00:00
-time_end = 2020-01-14T00:00:00
+time_start = 2020-01-12T13:00:00
+# time_end = 2020-01-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joshua B. Russell", "Hannah F. Mark", "James B. Gaherty", "Pei-Ying (Patty) Lin", "Daniel Lizarralde", "John A. Collins", "Greg Hirth", "Rob L. Evans"]
@@ -38,7 +38,7 @@ projects = []
 tags = ["Seismic Anisotropy", "Oceanic Lithosphere"]
 
 # Links (optional).
-url_pdf = "https://jbrussell.github.io/talk/icool/featured.png"
+url_pdf = "https://jbrussell.github.io/talk/icool/poster/poster.png"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -58,7 +58,15 @@ math = true
   
   # Show image only in page previews?
   preview_only = true
+  
+[[gallery_item]]
+  album = "poster"
+  image = "poster.png"
+  caption = "ICOOL 2020 Poster"
+    
 +++
 
-<img src="featured.png" alt="ICOOL 2020 Poster">
+<!-- <img src="featured.png" alt="ICOOL 2020 Poster"> -->
+
+{{< gallery album="poster" >}}
 
