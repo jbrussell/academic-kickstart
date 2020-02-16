@@ -221,7 +221,7 @@ enableGitInfo = false
     #   4 = Stream
     publication_format = 4
 
-    # Talk list format.
+    # Talk list format. (NEED TO CHANGE IN ./content/home/talks.md)
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream

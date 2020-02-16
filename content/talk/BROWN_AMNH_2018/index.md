@@ -9,7 +9,7 @@ time_start = 2018-11-07T16:45:00
 #time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Joshua B. Russell", "Genevieve Coffey", "Ben Holtzman"]
 
 # Abstract and optional shortened version.
 abstract = "Humans have evolved excellent pattern recognition skills using both our eyes and ears, often performing better than computers. We explore how data (seismic, weather, oceanographic) can be sonified and visualized in order to better identify patterns, as well as why we should care about these patterns."
@@ -39,7 +39,7 @@ tags = ["Outreach", "Science Communication"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = "https://jbrussell.github.io/slides/y180726_SLdemo_InducedEqs/"
+url_slides = "https://jbrussell.github.io/slides/02022020_Soundlab/"
 url_video = ""
 url_code = ""
 
