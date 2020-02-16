@@ -1,5 +1,5 @@
 +++
-title = "Listening for patterns in the Earth"
+title = "Sounds of Seismology"
 date = 2018-10-30T00:00:00  # Schedule page publish date.
 draft = false
 

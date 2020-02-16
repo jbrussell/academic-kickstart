@@ -31,7 +31,7 @@ url_code = "https://github.com/jbrussell/datamovies"
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/JBRussell_"}]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://www.seismicsoundlab.org/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

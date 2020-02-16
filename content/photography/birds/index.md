@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Wildlife"
+title = "Birds"
 
 # Date this page was created.
 date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Birds from around the world."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -90,5 +90,6 @@ caption = "Roseate Spoonbill, Houston, TX"
 
 +++
 
+My passion for birds was born in high school during a summer field biology class centered around bird banding in southwestern Missouri. While in college as a physics student, I continued to go birdwatching (or simply "birding") as often as I could and even took an ornithology course in my final year. More recently, I've become interested in the photography side of birding and take my camera everywhere I go, whether it's for fieldwork, a conference, or vacation.
 
 {{< gallery album="1" >}}
