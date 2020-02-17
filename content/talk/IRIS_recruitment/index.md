@@ -54,10 +54,10 @@ math = true
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Right"
+  focal_point = "Top"
   
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
 
 In recent years, an effort has been made to broaden the geosciences both in terms of the number of underrepresented minorities as well as students with backgrounds in math, physics, and computer science. As an alumnus of the <a href="https://www.iris.edu/hq/internship/blogs/user/80">IRIS</a> and <a href="http://resess.unavco.org/people/alumni/2014/russell/russell.html">UNAVCO RESESS</a> emersive undergraduate research programs, I serve as one of the 2018 IRIS recruitment speakers as part of the <a href="https://www.iris.edu/hq/internship/recruitment">IRIS Recruitment Lecture Series</a>. In this role, I travel to minority-serving institutions to speak to undergraduates in the geosciences, mathematics, physics, and computer science about geophysics and seismology career paths as well as opportunities that are available for undergraduate research. See below for the flyer:

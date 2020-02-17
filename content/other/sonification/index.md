@@ -10,7 +10,7 @@ summary = "Earthquakes produce seismic waves that are recorded by seismometers. 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Data Sonification"]
+tags = ["Data Sonification","Science Communication"]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

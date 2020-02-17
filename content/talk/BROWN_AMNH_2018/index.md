@@ -57,5 +57,5 @@ math = true
   focal_point = "Right"
   
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
