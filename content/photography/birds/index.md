@@ -90,6 +90,6 @@ caption = "Roseate Spoonbill, Houston, TX"
 
 +++
 
-My passion for birds was born in high school during a summer field biology class centered around bird banding in southwestern Missouri. While in college as a physics student, I continued to go birdwatching (or simply "birding") as often as I could and even took an ornithology course in my final year. More recently, I've become interested in the photography side of birding and take my camera everywhere I go, whether it's for fieldwork, a conference, or vacation.
+My passion for birds began in high school during a summer field biology class that focused on bird banding in southwestern Missouri. While in college as a physics student, I continued to birdwatch (or simply *bird*) as often as I could and even took an ornithology course in my final year. More recently, I've taken to the photography side of birding and bring my camera everywhere I go, whether it's for fieldwork, a conference, or on vacation.
 
 {{< gallery album="1" >}}
