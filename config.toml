@@ -311,7 +311,7 @@ enableGitInfo = false
  weight = 3
 
 [[menu.main]]
-  name = "Talks"
+  name = "Presentations"
   url = "#talks"
   weight = 4
 
@@ -328,9 +328,9 @@ enableGitInfo = false
     weight = 9
 
 [[menu.main]]
-  name = "Photography"
+  name = ""
   url = "#photography"
-  weight = 7
+  weight = 10
 
 #[[menu.main]]
 #  name = "Contact"

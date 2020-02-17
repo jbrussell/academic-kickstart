@@ -23,7 +23,7 @@ weight = 3
 <!-- <center><font size="+15" color="#e6e6e6" face="montserrat"><b>JOSHUA RUSSELL</b></font></center> -->
 <!-- <center><font size="6" color="#e6e6e6" face="ubuntu"><b>GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE</b></font></center> -->
 
-<a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </font></a>
+<a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"><b> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
 <div class="bottom"><font size="-1"></font></div>
 
 <div style="display: table; height: 300px; overflow: hidden;">
