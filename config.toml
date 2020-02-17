@@ -328,9 +328,9 @@ enableGitInfo = false
     weight = 9
 
 [[menu.main]]
-  name = ""
+  name = "Photography"
   url = "#photography"
-  weight = 10
+  weight = 8
 
 #[[menu.main]]
 #  name = "Contact"
