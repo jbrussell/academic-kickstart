@@ -110,7 +110,7 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "headers/darkOBS3_NoMelt2.jpg"
+  sharing_image = "headers/darkOBS3_NoMelt2_vignette2.png"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "JBRussell_"
