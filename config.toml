@@ -332,10 +332,10 @@ enableGitInfo = false
   url = "#photography"
   weight = 8
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 8
+[[menu.main]]
+ # name = "Contact"
+ url = "#contact"
+ weight = 20
 
 # Search.
 [params.search]
