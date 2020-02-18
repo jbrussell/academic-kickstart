@@ -12,9 +12,9 @@ weight = 3
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#000000"  # An HTML color value.
-  # overlay_img = "headers/darkOBS3_NoMelt2_vignette2.png"  # Image path relative to your `static/img/` folder.
-  overlay_img = ""  # Image path
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/darkOBS3_NoMelt2_vignette2.png"  # Image path relative to your `static/img/` folder.
+  # overlay_img = ""  # Image path
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -26,9 +26,12 @@ weight = 3
 
 <!-- <div  class="fixed" ></div> -->
 
-<div class="item">
-  <img src="https://jbrussell.github.io/img/headers/darkOBS3_NoMelt2_vignette2.png">
-</div>
+<!-- PARALLAX HEADER, BUT SLOW -->
+<!-- <div class="item">
+  <img src="https://jbrussell.github.io/img/headers/darkOBS3_NoMelt2_vignette2.png" />
+  <div id="overlay"></div>
+</div> -->
+
 
 <a class="button3" href="#about"><font face="montserrat" color="#d6d6d6"><b> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
 <div class="bottom"><font size="-1"></font></div>
