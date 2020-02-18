@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Contact"
-subtitle = ""
+subtitle = "<i class='fas fa-envelope'></i>  <jbrussell@ldeo.columbia.edu>"
 
 # Order that this section will appear in.
 weight = 70
@@ -20,7 +20,6 @@ autolink = true
 email_form = 0
 +++
 Follow me!
-
 
 <a class="twitter-timeline" data-width="500" data-height="500" data-theme="light" href="https://twitter.com/JBRussell_?ref_src=twsrc%5Etfw">Tweets by JBRussell_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
