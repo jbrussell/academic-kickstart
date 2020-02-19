@@ -2,15 +2,17 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Raleway:400,700|Muli:400,700|Montserrat:400,700|Open+Sans:400,300italic,700|Roboto+Mono|Julius+Sans+One|Cairo:400|Ubuntu:400,700|Lato:400,700"
+google_fonts = "Raleway:300,400,600,700|Muli:400,700|Montserrat:400,700|Open+Sans:400,300italic,700|Roboto+Mono|Julius+Sans+One|Cairo:400|Ubuntu:400,700|Lato:400,700"
 
 # Font families
 heading_font = "Montserrat"
+# heading_font = "Raleway"
 # body_font = "Raleway"
 body_font = "Muli"
 # body_font = "Montserrat"
-nav_font = "Cairo"
-mono_font = "Montserrat"
+# nav_font = "Cairo"
+nav_font = "Raleway"
+mono_font = "Roboto+Mono"
 
 # Font size
 font_size = "16"
