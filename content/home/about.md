@@ -22,21 +22,25 @@ weight = 5
 #  course = "PhD in Artificial Intelligence"
 #  institution = "Stanford University"
 #  year = 2012
+# img = "/img/name.png" [JBR] edited about.html
 
 [[education.courses]]
   course = "MPhil in Seismology"
   institution = "Columbia University"
   year = 2019
+  logo = "img/logo/logoCUcrowngray.png"
 
 [[education.courses]]
   course = "MA in Seismology"
   institution = "Columbia University"
   year = 2017
+  logo = "img/logo/logoCUcrowngray.png"
 
 [[education.courses]]
   course = "BS in Physics"
   institution = "University of Missouri - Columbia"
   year = 2015
+  logo = "img/logo/logoMUgray.png"
 
 +++
 

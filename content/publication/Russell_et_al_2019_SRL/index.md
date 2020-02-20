@@ -61,6 +61,10 @@ doi = "10.1785/0220180336"
 # Does this page contain LaTeX math? (true/false)
 math = true
 
+# JBR - edit in publication_li_*.html
+# Optional external URL for project (replaces project detail page).
+external_link = "https://doi.org/10.1785/0220180336"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
