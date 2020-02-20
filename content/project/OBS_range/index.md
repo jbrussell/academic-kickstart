@@ -29,6 +29,7 @@ url_code = "https://github.com/jbrussell/OBSrange"
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/JBRussell_"}]
+url_custom = [{name="Publication", url = "https://doi.org/10.1785/0220180336"}]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -47,7 +48,7 @@ external_link = ""
   preview_only = true
 +++
 
-{{< figure src="featured.jpg" title="Schematic showing the rangining procedure for location ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018]." numbered="false" >}}
+{{< figure src="featured.jpg" title="Schematic showing the ranging procedure for locating ocean bottom seismometers (OBS) on the seafloor [Russell et al., 2018]." numbered="false" >}}
 
 Nearly all seismological analyses require accurate knowledge of the instrument location. Furthermore, successful recovery of OBS from the seafloor rely on our ability to locate them. Together with <a href="http://zeilon.squarespace.com/">Zach Eilon</a> and <a href ="https://www.researchgate.net/profile/Stephen_Mosher">Stephen Mosher</a>, we have developed a new open-source tool called <a href="https://pubs.geoscienceworld.org/ssa/srl/article/570368/obsrange-a-new-tool-for-the-precise-remote">OBSrange</a> for locating ocean bottom seismometers on the seafloor and providing statistically robust uncertainties. We applied the tool to data from the 2018 Young Pacific ORCA deployment, revealing a clockwise mesoscale eddy that correlates with observed ocean currents in the region. This novel measurement of depth integrated flow through the water column is the first of its kind and could potentially be used to calibrate models of vertical shear.
 
