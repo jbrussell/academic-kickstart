@@ -17,45 +17,39 @@ weight = 40
 
 [[code.repo]]
   name = "OBSrange"
-  footer = "Tool for accurately locating OBS on the seafloor"
+  footer = "Tool for accurately locating OBS on the seafloor using acoustic ranging data"
   photo = "img/code/obsrange.png"
   website = "https://github.com/jbrussell/OBSrange"
-  ismyrepo = 1
 
 [[code.repo]]
   name = "Simple_X"
   footer = "A seismologist-friendly Matlab wrapper for the thermodynamic tool [Perple_X](http://www.perplex.ethz.ch/) that estimates Vp and Vs for a desired composition"
   photo = "img/code/simple_x.png"
   website = "https://github.com/jbrussell/Simple_X"
-  ismyrepo = 1
   
 [[code.repo]]
   name = "MATnoise"
   footer = "Calculate ambient noise cross-correlations and measure phase velocities"
   photo = "img/code/matnoise.png"
   website = "https://github.com/jbrussell/MATnoise"
-  ismyrepo = 1
 
 [[code.repo]]
   name = "mat-LRTdisp"
   footer = "Measure multimode phase velocity dispersion using the Linear Radon Transform"
   photo = "img/code/mat-lrtdisp.png"
   website = "https://github.com/jbrussell/mat-LRTdisp"
-  ismyrepo = 1
 
 [[code.repo]]
   name = "MINEOS_synthetics"
-  footer = "Calculate synthetic seismograms using the mode summation codes MINEOS"
+  footer = "Calculate synthetic seismograms for layered Earth models using the mode summation code MINEOS. Also outputs dispersion curves, sensitivity kernels, and eigenfunctions"
   photo = "img/code/mineos_synthetics.png"
   website = "https://github.com/jbrussell/MINEOS_synthetics"
-  ismyrepo = 1
 
 [[code.repo]]
   name = "invSWani-GBHE"
-  footer = "Invert anisotropic phase velocities for anisotropy depth functions"
+  footer = "Invert anisotropic phase velocities for anisotropy depth functions G, B, H, and E"
   photo = "img/code/invSWani-GBHE.png"
   website = "https://github.com/jbrussell/invSWani-GBHE"
-  ismyrepo = 1
 
 [[code.repo]]
   name = "AWSMS"
