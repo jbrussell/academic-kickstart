@@ -85,7 +85,7 @@ weight = 40
   name = "VBR"
   footer = "The Very Broadband Rheology calculator estimates mechanical behavior of olivine on timescales ranging from elastic to fully viscous."
   photo = "img/code/vbr.png"
-  website = "https://github.com/benholtzman/vbr"
+  website = "https://vbr-calc.github.io/vbr/"
 
 
 
