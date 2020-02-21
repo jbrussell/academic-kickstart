@@ -8,7 +8,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Code"
-subtitle = "Reproducibility in science relies on open-source software. Listed here are a few tools that I am involved with developing related to surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
+subtitle = "Reproducibility in science relies on open-source software. I have been involved in several projects providing community tools. Listed here are several that I use on a regular basis for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
 
 # Order that this section will appear in.
 weight = 40
