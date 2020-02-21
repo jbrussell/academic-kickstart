@@ -52,7 +52,7 @@ weight = 40
   website = "https://github.com/jbrussell/invSWani-GBHE"
 
 [[code.repo]]
-  name = "AWSMS"
+  name = "ASWMS"
   footer = "Automated Surface-Wave Measurement System of Jin & Gaherty (2015), adapted for azimuthal anisotropy."
   photo = "img/code/aswms.png"
   website = "https://github.com/jbrussell/matgsdf"
