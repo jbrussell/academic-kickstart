@@ -20,48 +20,56 @@ weight = 40
   footer = "Tool for accurately locating OBS on the seafloor using acoustic ranging data"
   photo = "img/code/obsrange.png"
   website = "https://github.com/jbrussell/OBSrange"
+  icon = "fab fa-github"
 
 [[code.repo]]
   name = "Simple_X"
   footer = "A seismologist-friendly Matlab wrapper for the thermodynamic tool [Perple_X](http://www.perplex.ethz.ch/) that estimates Vp and Vs for a desired composition"
   photo = "img/code/simple_x.png"
   website = "https://github.com/jbrussell/Simple_X"
+  icon = "fab fa-github"
   
 [[code.repo]]
   name = "MATnoise"
   footer = "Calculate ambient noise cross-correlations and measure phase velocities"
   photo = "img/code/matnoise.png"
   website = "https://github.com/jbrussell/MATnoise"
+  icon = "fab fa-github"
 
 [[code.repo]]
   name = "mat-LRTdisp"
   footer = "Measure multimode phase velocity dispersion using the Linear Radon Transform"
   photo = "img/code/mat-lrtdisp.png"
   website = "https://github.com/jbrussell/mat-LRTdisp"
+  icon = "fab fa-github"
 
 [[code.repo]]
   name = "MINEOS_synthetics"
   footer = "Calculate synthetic seismograms for layered Earth models using the mode summation code MINEOS. Also outputs dispersion curves, sensitivity kernels, and eigenfunctions"
   photo = "img/code/mineos_synthetics.png"
   website = "https://github.com/jbrussell/MINEOS_synthetics"
+  icon = "fab fa-github"
 
 [[code.repo]]
   name = "invSWani-GBHE"
   footer = "Invert anisotropic phase velocities for anisotropy depth functions G, B, H, and E"
   photo = "img/code/invSWani-GBHE.png"
   website = "https://github.com/jbrussell/invSWani-GBHE"
+  icon = "fab fa-github"
 
 [[code.repo]]
   name = "ASWMS"
   footer = "Automated Surface-Wave Measurement System of Jin & Gaherty (2015), adapted for azimuthal anisotropy."
   photo = "img/code/aswms.png"
   website = "https://github.com/jbrussell/matgsdf"
+  icon = "fas fa-code-branch"
 
 [[code.repo]]
   name = "ATaCR"
   footer = "Automated Tilt and Compliance Removal to clean OBS data."
   photo = "img/code/atacr.png"
   website = "https://github.com/helenjanisz/ATaCR"
+  icon = "fas fa-code-branch"
 # 
 # [[code.repo]]
 #   name = "recreadplot"
@@ -80,6 +88,7 @@ weight = 40
   footer = "The Very Broadband Rheology calculator estimates mechanical behavior of olivine on timescales ranging from elastic to fully viscous."
   photo = "img/code/vbr.png"
   website = "https://vbr-calc.github.io/vbr/"
+  icon = "fas fa-code-branch"
 
 
 
