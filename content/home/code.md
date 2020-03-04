@@ -31,7 +31,7 @@ weight = 40
   
 [[code.repo]]
   name = "MATnoise"
-  footer = "Calculate ambient noise cross-correlations and measure phase velocities"
+  footer = "Calculate ambient noise empirical Green's functions and measure phase velocities"
   photo = "img/code/matnoise.png"
   website = "https://github.com/jbrussell/MATnoise"
   icon = "fab fa-github"
