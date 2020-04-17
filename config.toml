@@ -317,7 +317,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Outreach"
-  url = "#other"
+  url = "#outreach"
   weight = 7
   
 [[menu.main]]
