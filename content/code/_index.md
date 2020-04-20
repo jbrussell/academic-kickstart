@@ -11,4 +11,3 @@ caption = "Archived course materials are provided as-is."
 
 +++
 
-These are materials for past courses that I have taught at UCR, Cornell, and Stanford.
