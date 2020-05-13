@@ -35,6 +35,7 @@ url_code = ""
 # Optional external URL for project (replaces project detail page).
 # external_link = "http://www.seismicsoundlab.org/"
 # external_link = "https://github.com/jbrussell/datamovies"
+external_link = 'eilive2020'
 
 
 # Featured image
@@ -48,7 +49,7 @@ url_code = ""
   focal_point = "Center"
   
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 +++
 
 {{% toc %}}
