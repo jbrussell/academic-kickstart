@@ -12,14 +12,5 @@ linktitle = "Part1b"
   weight = 2
 +++
 
-testing 
-
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
-
-## Tip 1
-
-...
-
-## Tip 2
-
-...
+<!-- layouts/partials/bokeh -->
+{{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-07.5_15Hz_1min.BHZ.csv.html" >}}

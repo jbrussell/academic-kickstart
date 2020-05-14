@@ -342,3 +342,58 @@ navbar-light .navbar-nav>.nav-item>.nav-link,
 .dropdown-menu {
   background-color: rgba(0,0,0,1) !important;
 }
+
+/* Docs sidebar settings */
+.docs-sidebar .nav>li>a {
+  display: block;
+  padding: .25rem 1.5rem;
+  /* font-size: 0.8rem; */
+  font-size: 0.9rem;
+  color: rgba(0, 0, 0, .65);
+}
+.docs-toggle {
+  line-height: 1;
+  font-size: 1.2rem;
+  color: {{ .Get "primary" }};
+  background-color: transparent;
+}
+.docs-toc {
+  order: 2;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: .875rem
+  /* font-size: 1.2rem */
+}
+.docs-toc-title {
+  color: #b5b5b5;
+  font-size: .875rem;
+  /* font-size: 1.2rem; */
+  font-weight: 600;
+  padding-left: calc(1.5rem + 1px);
+  margin-bottom: .5rem;
+}
+#TableOfContents li a,
+.toc-top li a {
+  display: block;
+  padding: .125rem 1.5rem;
+  color: #99979c;
+  font-size: 0.7rem;
+  /* font-size: 1.0rem; */
+}
+/* Docs - remove date on footer by setting font size to 0px */
+.docs .body-footer {
+  border-top: 1px solid #e8e8e8;
+  margin-top: 30px;
+  padding-top: 10px;
+  font-size: 0px;
+  color: #707070;
+}
+
+/* increase font size for code highlights */
+pre,
+code {
+  font-family: '{{ .Get "mono_font" }}', monospace;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  font-size: 1.0rem
+}

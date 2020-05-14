@@ -12,10 +12,9 @@ linktitle = "Part1a"
   weight = 2
 +++
 
-<!-- layouts/partials/bokeh -->
-{{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-07.5_15Hz_1min.BHZ.csv.html" >}}
 
-testing 
+<iframe src="https://trinket.io/embed/python3/600f40f1cf" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 

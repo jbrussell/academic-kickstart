@@ -52,35 +52,3 @@ external_link = 'eilive2020'
   preview_only = false
 +++
 
-{{% toc %}}
-
-# Part 1 of 2: Data Storytelling in Python (Grades 10-12)
-Monday, May 18, 2020 | 2:00 to 3:00pm EDT
-
-## testing
-
-Description: Have you ever wondered how scientists transform data into a visual story? In this session, Josh will take you on a journey through the Python programming language from the ground up with real examples using data from the earth sciences. During this Tour de Python, you will learn about data visualization, earthquakes, plate tectonics, and even run your very own Python code!
-
-
-# Part 2 of 2: A Deep Dive into Earthquake Sonification with Python (Grades 10-12)
-
-Wednesday, May 20, 2020 | 2:00 to 3:00pm EDT
-
-Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.
-
-# test
-
-Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.
-
-
-# Test2
-Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.Description: Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.
-
-<!-- layouts/partials/bokeh -->
-{{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-07.5_15Hz_1min.BHZ.csv.html" >}}
-
-{{< importBokeh "bokeh/gravitional_waves_black_hole_merger.html" >}}
-
-{./part1/LD.CPNY.2020-02-09.2020-05-07.5_15Hz_1min.BHZ.csv.html}
-
-<iframe src="https://trinket.io/embed/python3/2716f21194?runMode=console" width="130%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

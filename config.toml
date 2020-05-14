@@ -165,7 +165,8 @@ enableGitInfo = false
   #   https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = ["python","matlab"]
-  highlight_style = "github"
+  # highlight_style = "github"
+  highlight_style = "atom-one-dark"
 
   # Enable native social sharing buttons?
   sharing = true
