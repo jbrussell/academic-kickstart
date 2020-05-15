@@ -2,7 +2,7 @@
 # Project title.
 title = "EI Live 2020"
 
-draft = true
+draft = false
 
 # Date this page was created.
 date = 2020-05-10T00:00:00
@@ -12,7 +12,7 @@ summary = "Data Storytelling in Python"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Data Sonification","Science Communication"]
+tags = ["Data Sonification","Science Communication","Data Visualization"]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
