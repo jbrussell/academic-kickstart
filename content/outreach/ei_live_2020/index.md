@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "EI Live 2020"
+title = "Earth Institute LIVE: K-12 Education"
 
 draft = false
 
@@ -8,7 +8,7 @@ draft = false
 date = 2020-05-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "Data Storytelling in Python"
+summary = "In this module, we explore data in the Earth Sciences using interactive Python libraries. This includes visualization and sonification of data relating to earthquakes, plate tectonics, and seismic waves."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

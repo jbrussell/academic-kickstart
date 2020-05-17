@@ -1,5 +1,5 @@
 +++
-title = "EI Live 2020"
+title = "Earth Institute LIVE 2020"
 date = 2020-05-12T00:00:00
 # lastmod = 2018-09-09T00:00:00
 draft = false  # Is this a draft? true/false
@@ -12,8 +12,6 @@ type = "docs"  # Do not modify.
   name = "Overview"
   weight = 1
 +++
-
-The [Earth Institute Live](https://www.ldeo.columbia.edu/news-events/ei-live-k12-rsvp-our-upcoming-may-sessions) series
 
 \
 \
@@ -33,3 +31,4 @@ The [Earth Institute Live](https://www.ldeo.columbia.edu/news-events/ei-live-k12
 
 \
 \
+

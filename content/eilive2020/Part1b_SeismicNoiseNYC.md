@@ -9,44 +9,29 @@ type = "docs"  # Do not modify.
 linktitle = "Seismic Noise NYC"
 [menu.eilive2020]
   parent = "Part 1: Data Storytelling in Python"
-  weight = 2
+  weight = 4
 +++
+
+\
+
+Anyone who has been to New York City knows it can be a noisy place. The same goes for ground beneath our feet as cars, trucks, buses, and subways rumble by. Extremely sensitive seismometers that measure ground motion can detect these vibrations. Due to the COVID-19 crisis and the resulting shelter-in-place protocols active around the world, seismic noise [has noticeably decreased worldwide](https://www.nature.com/articles/d41586-020-00965-x). 
+
+In this section, we will explore data from a seismometer currently installed in Central Park as part of the [Lamont-Doherty Cooperative Seismographic Network (LCSN)](https://www.ldeo.columbia.edu/LCSN/intro.php).
+
+<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1Hz6JR0IILBPtMUiWBPq9jbY7c0U4x630&hl=en" width="640" height="480"></iframe> -->
+
+
+<!-- layouts/partials/bokeh -->
+<div>
+  {{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-15.5_15Hz.BHZ.html" >}}
+</div>
+
+
+# Make your own noise plots
 
 <iframe src="https://trinket.io/embed/python3/600f40f1cf" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
-``` python
-import bokeh
-from bokeh.models import Line, Span, ColumnDataSource, DatetimeTickFormatter
-from bokeh.plotting import figure, output_notebook, show, output_file
-import time
-
-# Define figure attributes
-p = figure(x_axis_type='datetime',plot_width=800, plot_height=400, sizing_mode = 'scale_width',
-           x_range=(df.t_cent.min(),df.t_cent.max()), y_range=([0, df.daily_average.max()*1e9*2]),
-           x_axis_label='Date', y_axis_label='Average Ground Displacement (nm)', title='NYC Seismic Noise',
-           tools=['save','box_zoom','ywheel_zoom','xwheel_zoom','reset','crosshair','pan'])
-
-# Plot lines for hourly and daily displacement
-p.multi_line([df.t_cent,       df.t_cent],
-             [df.disp_avg*1e9, df.daily_average*1e9],
-             line_color=["lightsteelblue","steelblue"],
-             line_width=[2, 4])
-
-# Plot vertical lines marking stay at home and first nyc death
-# First need to convert datetime to milliseconds for some reason...
-nyc_SAH_ms = time.mktime(nyc_SAH.timetuple())*1000
-nyc_1st_ms = time.mktime(nyc_1st.timetuple())*1000
-nyc_SAH_start = Span(location=nyc_SAH_ms, dimension='height', line_color='firebrick', line_width=3)
-p.add_layout(nyc_SAH_start)
-nyc_1st_start = Span(location=nyc_1st_ms, dimension='height', line_color='firebrick', line_width=3)
-p.add_layout(nyc_1st_start)
-
-# Show plot in browser
-show(p)
-# Save local file
-output_file(fname+'.html')
-```
-
 <!-- layouts/partials/bokeh -->
-{{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-07.5_15Hz_1min.BHZ.csv.html" >}}
+<div>
+  {{< importBokeh "bokeh/LD.CPNY.2020-02-09.2020-05-15.5_15Hz.BHZ.load_reduction_hourly_NYC.html">}}
+</div>
