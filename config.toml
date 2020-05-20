@@ -391,4 +391,9 @@ enableGitInfo = false
 #    url = "#about"
 #    weight = 1
 
+# --------- JBR --------- #
 pluralizelisttitles = false
+
+# Increase timeout (milliseconds) to fix pages not rendering with large Bokeh plots
+# Default = 10000
+timeout=60000

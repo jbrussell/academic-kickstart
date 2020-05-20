@@ -16,7 +16,7 @@ type = "docs"  # Do not modify.
 \
 \
 
-## [Part 1 of 2: Data Storytelling in Python (Grades 10-12)](part1a_globalearthquakes/)
+## <a href="part1a1_globalearthquakes/" target="_self">Part 1 of 2: Data Storytelling in Python (Grades 10-12)</a>
 **Monday, May 18, 2020 | 2:00 to 3:00pm EDT**
 
 > Have you ever wondered how scientists transform data into a visual story? In this session, Josh will take you on a journey through the Python programming language from the ground up with real examples using data from the earth sciences. During this Tour de Python, you will learn about data visualization, earthquakes, plate tectonics, and even run your very own Python code!
@@ -24,7 +24,7 @@ type = "docs"  # Do not modify.
 \
 \
 
-## [Part 2 of 2: A Deep Dive into Earthquake Sonification with Python (Grades 10-12)](part2_sonification/)
+## <a href="part2a_sonification/" target="_self">Part 2 of 2: A Deep Dive into Earthquake Sonification with Python (Grades 10-12)</a>
 **Wednesday, May 20, 2020 | 2:00 to 3:00pm EDT**
 
 > Humans have a keen ability to detect patterns from sounds. In this follow-up session, Josh will introduce you to the world of data sonification — transforming data into sound — and how scientists use it to understand the natural world around us.

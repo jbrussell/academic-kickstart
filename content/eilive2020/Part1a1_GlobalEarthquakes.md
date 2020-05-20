@@ -18,14 +18,15 @@ Hundreds of earthquakes occur across the globe every day, but most of them are t
 
 We start by looking at where earthquakes occur spatially. The interactive map below shows the past 5 years of earthquakes, where each circle represents a single earthquake. Circles increase in size with increasing earthquake magnitude and the color indicates depth. Use the toolbar to zoom in and out and pan the page. Hover over points with the cursor to see information about each earthquake.
 
-[<i class="fab fa-github"></i> a1_plot_global_eqs.py](https://github.com/jbrussell/EI_Live_2020/blob/master/Analyze_SeismicNoise_NYCelectricity/1_calc_daily_noise.py)
+[<i class="fab fa-github"></i> view code](https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/ExploreEarthquakes/a1_plot_global_eqs.ipynb)
 
 <!-- layouts/partials/bokeh -->
-<div>
-  {{< importBokeh "bokeh/a1_global_seismicity.html" >}}
-</div>
+{{< importBokeh "bokeh/a1_global_seismicity.html" >}}
+
 
 \
+\
+
 # 45 Years of Earthquake Data
 
 Next, we gather all available data for earthquakes larger than M5.0 from the past nearly 45 years (1976–2020) from the [USGS catalogue](https://earthquake.usgs.gov/earthquakes/map/) and the [GCMT Project](https://www.globalcmt.org/). 
@@ -36,7 +37,7 @@ This would be far too many points to interactively load into your web browser (m
 * What are the bright spots in the middle of the oceans?
 {{% /alert %}}
 
+[<i class="fab fa-github"></i> view code](https://nbviewer.jupyter.org/github/jbrussell/EI_Live_2020/blob/master/ExploreEarthquakes/a2_plot_eqdensity_heatmap.ipynb)
+
 <!-- layouts/partials/bokeh -->
-<div>
-  {{< importBokeh "bokeh/a2_global_seismicity_heatmap.html" >}}
-</div>
+{{< importBokeh "bokeh/a2_global_seismicity_heatmap.html" >}}
