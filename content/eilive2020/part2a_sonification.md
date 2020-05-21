@@ -40,12 +40,12 @@ When we sonify data, we will want to make sure that the data are varying around 
 Now, we will try adding waves together. Interesting behavior occurs even when add just two waves together. If you make the frequencies of the two waves close to one another, you will begin to see **beats** --- a sine wave modulated by a lower frequency "envelope". The frequency of the beat that you see is equal to the difference in the frequency of the two waves ($f_{beat} = |f_1-f_2|$). The human ear hears this as a single frequency with its amplitude modulated.
 
 {{% alert note %}}
-* Try making a beat!
+* Try adjusting `f1` and `f2` up and down to see what happens!  
+* What happens when the two frequencies get farther apart? Closer together?
 
-Hint: Make `f1` close to `f2`
 {{% /alert %}}
 
-<iframe src="https://trinket.io/embed/python3/2fbd7febbb?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/aac225ea55?start=result" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 \
 \
@@ -70,6 +70,8 @@ Use the "Wheel Zoom" tool in the top toolbar to expand the horizontal and vertic
 
 # Sound wave Shape and Compression
 
+Waves come in all shapes and sizes, not just sine waves. Although, sine waves sound the purest and are most pleasing to the ear. In the following example, we will listen to a comparison of the sine wave with the "square wave". Expand the horizontal axes to see what the two waveforms look like in detail.
+
 {{% alert note %}}
   * Can you guess which one is the square wave just by listening to them?
 {{% /alert %}}
@@ -78,6 +80,11 @@ Use the "Wheel Zoom" tool in the top toolbar to expand the horizontal and vertic
 <!-- layouts/partials/bokeh -->
 {{< importBokeh "bokeh/squarewave_hres.html" >}}
 
+\
+
+Next we will explore the effect of an **envelope** applied to the waveform. Envelopes alter the shape of the waveform and change the amplitude of the tone but have no affect on the frequency. Notice how the power in the spectrogram reflects the amplitude in the waveform. As the waveform amplitude increases, so does the spectral power (it may be difficult to see as the power is shown in $\log_{10}$ units as decibels).
+
+The top left corner shows tabs for different sound duration ranging from 2 to 8 seconds. Notice how the frequency of the tone decreases with increasing duration. This is because the same amount of cycles are being expressed over a larger time interval, leading to a longer wavelength.
 
 {{% alert note %}}
   * What happens to the frequency of the sound as you increase the duration from 2 seconds to 5 seconds?
