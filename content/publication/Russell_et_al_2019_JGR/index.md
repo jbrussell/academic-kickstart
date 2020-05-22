@@ -43,7 +43,7 @@ tags = ["seismic anisotropy","surface waves","oceanic lithosphere"]
 # Links (optional).
 url_pdf = "pdf/Russell_et_al_2019_JGR.pdf"
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/jbrussell/invSWani-GBHE"
 url_dataset = "http://www.marine-geo.org/tools/search/Files.php?data_set_uid=26504"
 url_project = ""
 url_slides = ""
