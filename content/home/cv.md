@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-#https://jbrussell.github.io/files/cv.pdf
+<!-- #https://jbrussell.github.io/files/cv.pdf -->
