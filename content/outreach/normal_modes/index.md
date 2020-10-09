@@ -49,7 +49,8 @@ external_link = ""
 
 This video is a contribution by [Celia Eddy](https://www.celiaeddy.com/) and I to the [Seismic Sound Lab](http://www.seismicsoundlab.org/), run by Ben Holtzman at the Lamont-Doherty Earth Observatory. 
 
-<iframe src="https://player.vimeo.com/video/215665951" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+{{< vimeo 215665951 >}}
+\
 
 After a large earthquake, the Earth vibrates like waves on a guitar string -- These discrete modes of vibration are called normal modes or free oscillations. If the earthquake is large enough, the Earth can 'ring' for days or weeks. This video uses synthetic waveform simulations to demonstrate both visually and sonically these free oscillations of the Earth after the [M6.9](https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t/executive#executive) earthquake that occurred off the coast of Fiji on 2/24/2017.
 
