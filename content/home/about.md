@@ -18,11 +18,11 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
-# img = "/img/name.png" [JBR] edited about.html
+[[education.courses]]
+  course = "PhD in Seismology"
+  institution = "Columbia University"
+  year = 2020
+  logo = "img/logo/logoCUcrowngray.png"
 
 [[education.courses]]
   course = "MPhil in Seismology"
@@ -46,4 +46,4 @@ weight = 5
 
 <!-- # About -->
 
-I am a seismology PhD student at the [Lamont-Doherty Earth Observatory](https://www.ldeo.columbia.edu/) at Columbia University. My research focuses primarily on surface-wave imaging of the oceanic lithosphere-asthenosphere system using ocean bottom data. I am interested in the structure and evolution of the oceanic upper mantle, including how the lithosphere forms and evolves, the nature of the lithosphere-asthenosphere boundary, and *in situ* constraints on mantle petrofabrics. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
+I am a seismologist studying upper mantle processes. My research focuses primarily on surface-wave imaging of the oceanic lithosphere-asthenosphere system using ocean bottom data. I am interested in the structure and evolution of the oceanic upper mantle, including how the lithosphere forms and evolves, the nature of the lithosphere-asthenosphere boundary, and *in situ* constraints on mantle petrofabrics. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
