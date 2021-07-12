@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Seismology"
   institution = "Columbia University"
-  year = 2020
+  year = 2021
   logo = "img/logo/logoCUcrowngray.png"
 
 [[education.courses]]
