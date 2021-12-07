@@ -41,7 +41,7 @@ projects = [""]
 tags = ["OBS"]
 
 # Links (optional).
-url_pdf = "pdf/Eilon_et_al_2021_SRL.pdf"
+url_pdf = "pdf/Russell_Gaherty_2021_JGR.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
