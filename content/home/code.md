@@ -58,10 +58,10 @@ weight = 40
   icon = "fab fa-github"
 
 [[code.repo]]
-  name = "ASWMS-ani"
-  footer = "Automated Surface-Wave Measurement System of Jin & Gaherty (2015), adapted for azimuthal anisotropy."
+  name = "ASWMS-Q"
+  footer = "Automated Surface-Wave Measurement System of Jin & Gaherty (2015), adapted for attenuation, amplification, and azimuthal anisotropy."
   photo = "img/code/aswms.png"
-  website = "https://github.com/jbrussell/ASWMS-ani"
+  website = "https://github.com/jbrussell/ASWMS-Q"
   icon = "fas fa-code-branch"
 
 [[code.repo]]
