@@ -1,6 +1,6 @@
 +++
 title = "Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography"
-date = 2022-07-00T00:00:00
+date = 2022-10-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
