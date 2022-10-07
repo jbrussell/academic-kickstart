@@ -1,10 +1,10 @@
 +++
-title = "Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography"
-date = 2022-10-07T00:00:00
+title = "Sub-Lithospheric Small-Scale Convection Tomographically Imaged Beneath the Pacific Plate"
+date = 2022-10-05T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "**J.B. Russell**", "C.A. Dalton"]
+authors = [ "Z.C. Eilon", "L. Zhang", "J.B. Gaherty", "D.W. Forsyth", "**J.B. Russell**"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = [ "**J.B. Russell**", "C.A. Dalton"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Geophysical Research*"
-publication_short = "*Journal of Geophysical Research*"
+publication = "*Geophysical Research Letters*"
+publication_short = "*Geophysical Research Letters*"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -41,7 +41,7 @@ projects = [""]
 tags = ["OBS"]
 
 # Links (optional).
-url_pdf = "pdf/Russell_Dalton_2022_JGR.pdf"
+url_pdf = "pdf/Eilon_et_al_2022_GRL.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,14 +56,14 @@ url_source = ""
 # url_custom = [{name = "Dataset", url = "https://seiscode.iris.washington.edu/projects/obsrange/files"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1002/essoar.10511920.2"
+doi = "10.1029/2022GL100351"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
 
 # JBR - edit in publication_li_*.html
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/10.1002/essoar.10511920.2"
+external_link = "https://doi.org/10.1029/2022GL100351"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
