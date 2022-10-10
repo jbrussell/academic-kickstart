@@ -56,14 +56,14 @@ url_source = ""
 # url_custom = [{name = "Dataset", url = "https://seiscode.iris.washington.edu/projects/obsrange/files"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1002/essoar.10511920.2"
+doi = "10.1029/2022JB025174"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
 
 # JBR - edit in publication_li_*.html
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/10.1002/essoar.10511920.2"
+external_link = "https://doi.org/10.1029/2022JB025174"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
