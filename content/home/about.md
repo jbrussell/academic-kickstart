@@ -47,7 +47,7 @@ weight = 5
 
 <!-- # About -->
 
-I am a seismologist in the Department of Earth and Environmental Sciences at Syracuse University. My research focuses on imaging the crust and upper mantle using surface waves, primarily. I am interested in understanding the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic state. I study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
+I am a seismologist in the [Department of Earth and Environmental Sciences](https://thecollege.syr.edu/earth-sciences-department/) at Syracuse University. My research focuses on imaging the crust and upper mantle using surface waves, primarily. I am interested in understanding the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic state. I study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
 
 I am currently looking for motivated students to join my research group. Please reach out to find out more about opportunities in my group and life at Syracuse University.
 
