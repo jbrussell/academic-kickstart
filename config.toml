@@ -14,7 +14,7 @@ title = "Joshua Russell"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2022"
 
 theme = "academic"
 enableEmoji = true
@@ -53,11 +53,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Joshua Russell"
-  role = "NSF EAR Postdoctoral Fellow"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Brown University", url = "https://www.brown.edu/academics/earth-environmental-planetary-sciences/" } ]
+  organizations = [ { name = "Syracuse University", url = "https://thecollege.syr.edu/people/faculty/joshua-russell/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait-1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.

@@ -33,7 +33,7 @@ weight = 3
 </div>
 
 
-<a class="button3" href="#about"><font face="raleway" color="#d6d6d6"><b> GEOPHYSICS | SEISMOLOGY  | EARTH STRUCTURE </b></font></a>
+<a class="button3" href="#about"><font face="raleway" color="#d6d6d6"><b> Earth Structure Imaging </b> at Syracuse University </font></a>
 <div class="bottom"><font size="-1"></font></div>
 
 <div style="display: table; height: 300px; overflow: hidden;">

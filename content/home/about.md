@@ -11,10 +11,11 @@ weight = 5
 [interests]
   interests = [
     "Mantle dynamics",
-    "Ocean bottom seismology",
+    "Ocean-bottom seismology",
     "Structure and evolution of oceanic lithosphere",
-    "Surface-wave imaging",
     "Seismic anisotropy",
+    "Surface-wave imaging",
+    "Seismic attenuation"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -46,4 +47,7 @@ weight = 5
 
 <!-- # About -->
 
-I am a seismologist studying upper mantle processes. My research focuses primarily on surface-wave imaging of the oceanic lithosphere-asthenosphere system using ocean bottom data. I am interested in the structure and evolution of the oceanic upper mantle, including how the lithosphere forms and evolves, the nature of the lithosphere-asthenosphere boundary, and *in situ* constraints on mantle petrofabrics. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
+I am a seismologist in the Department of Earth and Environmental Sciences at Syracuse University. My research focuses on imaging the crust and upper mantle using surface waves, primarily. I am interested in understanding the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic state. I study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
+
+I am currently looking for motivated students to join my research group. Please reach out to find out more about opportunities in my group and life at Syracuse University.
+
