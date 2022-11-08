@@ -255,6 +255,11 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/JBRussell_"
+    
+  [[params.social]]
+    icon = "mastodon"
+    icon_pack = "fab"
+    link = "https://scicomm.xyz/@jbrussell"
 
   [[params.social]]
     icon = "linkedin"
