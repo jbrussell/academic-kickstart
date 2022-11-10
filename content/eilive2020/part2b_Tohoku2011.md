@@ -37,7 +37,7 @@ Before we listen to the earthquakes, we will first listen to the background nois
 
 # Listening to a M9.1 Earthquake
 
-Now, we will listen to the M9.1 that shook the earth on 9. The tabs on the following figure are ordered from furthest away from the source (over 10,000 miles) to closest (only a few hundred miles).
+Now, we will listen to the M9.1 that shook the earth on March 11, 2011. The tabs on the following figure are ordered from farthest away from the source (over 10,000 miles) to closest (only a few hundred miles).
 
 \
 
@@ -70,7 +70,7 @@ Now we will listen to a smaller magnitude (but still quite large!) M7.3 foreshoc
 
 \
 
-The video below was made at the [Seismic Sound Lab](http://www.seismicsoundlab.org) and shows seismic waves form the M9.1 earthquake that were measured across the United States. This video puts into action all that we have covered in this section!
+What do these seismic waves actually look like? The video below was made at the [Seismic Sound Lab](http://www.seismicsoundlab.org) and shows seismic waves from the M9.1 earthquake that were measured across the United States using seismometers deployed during the [USArray](http://www.usarray.org/) project. Red and blue colors indicate that the ground is moving up or down. This video puts into action all that we have covered in this section!
 
 \
 

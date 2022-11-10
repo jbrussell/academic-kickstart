@@ -21,7 +21,7 @@ The human ear is hardwired to find patterns within complex sounds. Together with
 
 # Understanding Waves
 
-In the previous section <a href="../part1a2_makeyourown/" target="_self">Make Your Own Maps</a>, we introduced a simple sinusoid. In the section, we will explore that further. We will use the same sine wave equation with amplitude $A$ and frequency $f$ (cycles per second), but this time we will also add phase $c$, offset $b$ :
+In the previous section <a href="../part1a2_makeyourown/" target="_self">Make Your Own Maps</a>, we introduced a simple sinusoid. In this section, we will explore sine waves further. We will use the same sine wave equation with amplitude $A$ and frequency $f$ (cycles per second), but this time we will also add phase $c$ and vertical offset $b$ :
 
 $$ y = A \sin (2 \pi f x + c) + b $$
 
@@ -37,11 +37,12 @@ When we sonify data, we will want to make sure that the data are varying around 
 
 # Making Your Own Waves With trinket.io
 
-Now, we will try adding waves together. Interesting behavior occurs even when add just two waves together. If you make the frequencies of the two waves close to one another, you will begin to see **beats** --- a sine wave modulated by a lower frequency "envelope". The frequency of the beat that you see is equal to the difference in the frequency of the two waves ($f_{beat} = |f_1-f_2|$). The human ear hears this as a single frequency with its amplitude modulated.
+Now, we will see what happens when waves are added together. This is called wave **superposition**, and interesting behavior occurs even when adding just two waves together. If the frequencies of the two waves are similar to one another, **beats** will be produced --- a sine wave modulated by a lower frequency "envelope". The frequency of the beat that you see is equal to the difference in the frequency of the two waves ($f_{beat} = |f_1-f_2|$). The human ear hears this as a single frequency with its amplitude modulated.
 
 {{% alert note %}}
 * Try adjusting `f1` and `f2` up and down to see what happens!  
 * What happens when the two frequencies get farther apart? Closer together?
+* What happens when the two frequencies are exactly the same?
 
 {{% /alert %}}
 
@@ -52,7 +53,7 @@ Now, we will try adding waves together. Interesting behavior occurs even when ad
 
 # Listening to Sine Waves
 
-Now, we will listen to some of the waves we just made. The following figure shows on top 3 different sine waves, each 2 seconds of length and connected end-to-end. The first one has a frequency of 200 Hz, the second a frequency of 210 Hz, and the third is the sum of the two. In this one you will hear a clear beating sound. Clicking the tab at the top left will show an example for 200 Hz + 300 Hz. These frequencies are far enough apart
+Now, we will listen to some of the waves we just made. The following figure shows on top 3 different sine waves, each 2 seconds of length and connected end-to-end. The first one has a frequency of 200 Hz, the second a frequency of 210 Hz, and the third is the sum of the two. In this one you will hear a clear beating sound. Clicking the tab at the top left will show an example for 200 Hz + 300 Hz. These frequencies are far enough apart that two distinct tones can be heard.
 
 The bottom panel is a **spectrogram** that shows the power produced by different frequencies over time. The brighter colors (less negative numbers) represent more power. The numbers are negative because we have taken the $\log_{10}$ to get values in terms of decibels.
 
