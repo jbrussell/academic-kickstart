@@ -316,22 +316,22 @@ enableGitInfo = false
 [[menu.main]]
  name = "Publications"
  url = "#publications"
- weight = 3
+ weight = 5
 
-[[menu.main]]
-  name = "Presentations"
-  url = "#talks"
-  weight = 4
+#[[menu.main]]
+#  name = "Presentations"
+#  url = "#talks"
+#  weight = 6
 
 [[menu.main]]
   name = "Outreach"
   url = "#outreach"
-  weight = 7
+  weight = 4
   
 [[menu.main]]
   name = "Code"
   url = "#code"
-  weight = 5
+  weight = 3
   
 # [[menu.main]]
 #   name = "Tutorials"

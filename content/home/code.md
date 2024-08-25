@@ -11,7 +11,7 @@ title = "Code"
 subtitle = "Reproducibility in science relies on open-source software. I have been involved in several projects providing community tools. Listed here are a few that I use on a regular basis for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
 
 # Order that this section will appear in.
-weight = 40
+weight = 30
 
 # GIT REPOS
 
