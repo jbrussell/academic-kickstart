@@ -54,7 +54,9 @@ filter_default = 0
 
 +++
 
-Science communication and outreach are key components of my science. These efforts have ranged in scope from in-house events at the Lamont-Doherty Earth Observatory, including [Research as Art](https://researchasart.wordpress.com/), the [Seismic Sound Lab](http://www.seismicsoundlab.org/), and [Open House](https://openhouse.ldeo.columbia.edu/) to working with middle and high school students at the [American Museum of Natural History](https://www.amnh.org/) and speaking to undergraduates at minority-serving institutions as an [IRIS Recruitment Speaker](https://www.iris.edu/hq/internship/recruitment). 
+Science communication and outreach are key components of doing science, and we are always looking for new ways to approach them. Below are examples of successful outreach initiatives that we have been involved in.
 
-Most recently, I have been involved with the [Career Opportunities and Research in Earth Sciences (CORES)] (https://deepsoutreach.brown.edu/dc/) program at Brown University, which aims to introduce Providence high school students to the Earth Sciences by bringing an interactive curriculum to their classrooms.
+<!-- These efforts have ranged in scope from in-house events at the Lamont-Doherty Earth Observatory, including [Research as Art](https://researchasart.wordpress.com/), the [Seismic Sound Lab](http://www.seismicsoundlab.org/), and [Open House](https://openhouse.ldeo.columbia.edu/) to working with middle and high school students at the [American Museum of Natural History](https://www.amnh.org/) and speaking to undergraduates at minority-serving institutions as an [IRIS Recruitment Speaker](https://www.iris.edu/hq/internship/recruitment).  -->
+
+<!-- Most recently, I have been involved with the [Career Opportunities and Research in Earth Sciences (CORES)] (https://deepsoutreach.brown.edu/dc/) program at Brown University, which aims to introduce Providence high school students to the Earth Sciences by bringing an interactive curriculum to their classrooms. -->
 <br/><br/>

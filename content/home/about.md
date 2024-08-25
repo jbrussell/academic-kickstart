@@ -47,7 +47,11 @@ weight = 5
 
 <!-- # About -->
 
-I am a seismologist in the [Department of Earth and Environmental Sciences](https://thecollege.syr.edu/earth-sciences-department/) at Syracuse University. My research focuses on imaging the crust and upper mantle using surface waves, primarily. I am interested in understanding the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic state. I study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints. I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach.
+Our seismology group in the [Department of Earth and Environmental Sciences](https://thecollege.syr.edu/earth-sciences-department/) at Syracuse University focuses on imaging Earth's crust and upper mantle using seismic waves to understand tectonic processes. We are interested in questions pertaining to the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic state and how it contributes to and reflects mantle dynamics. We study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints.
 
-I am currently looking for motivated students to join my research group. Please reach out to find out more about research opportunities and life at Syracuse University.
+Seismic data can also be used as a tool for environmental sensing. Our group has interest in using seismic data in new ways to understand environmental processes occuring at Earth's surface, such as the effect of lake ice on microseism noise in the Great Lakes region. We are also affiliated with the [Syracuse University Center for Gravitational Wave Astronomy and Astrophysics](https://gravitationalwaves.syracuse.edu/) where we are actively working on site selection for the next-generation gravitational-wave observatory [Cosmic Explorer](https://cosmicexplorer.org/).
+
+We are currently looking for motivated students to join our research group. Please reach out to find out more about research opportunities and life at Syracuse University.
+
+<!-- I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach. -->
 
