@@ -10,8 +10,8 @@ light = true
 # primary_dark = "#275796"
 primary = "#F76900"
 primary_light = "#FF8E00"
-# primary_dark = "#D74100"
-primary_dark = "#000E54"
+primary_dark = "#D74100"
+# primary_dark = "#000E54"
 
 # Menu
 menu_primary = "rgba(0,0,0,0.7)"
