@@ -1418,7 +1418,8 @@ a.badge:hover {
  **************************************************/
 
 .navbar {
-  min-height: 70px !important;
+  /* min-height: 70px !important; */
+  min-height: 100px !important;
 }
 
 .navbar-light {
