@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Isaac Rotimi"
+title = "Charles Drew"
 
 # Date this page was created.
-date = 2025-10-02T00:00:00
+date = 2020-10-02T00:00:00
 
 # Project summary to display on homepage.
-summary = "PhD Student (2023–Present)"
+summary = "Undergrad student (2023–2024)"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Current"]
+tags = ["Past"]
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

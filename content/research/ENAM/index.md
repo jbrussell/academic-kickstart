@@ -6,7 +6,7 @@ title = "ENAM: Seismic anisotropy of the Eastern North American Margin"
 date = 2018-10-29T00:00:00
 
 # Project summary to display on homepage.
-summary = "This project aims to better understand mantle dynamic associated with breakup of Pangaea from relic fabrics recorded in the oceanic lithosphere."
+summary = "This project aims to better understand mantle dynamics associated with breakup of Pangaea from relic fabrics recorded in the oceanic lithosphere."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

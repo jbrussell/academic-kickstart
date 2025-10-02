@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Isaac Rotimi"
+title = "Sarmad Rameez"
 
 # Date this page was created.
 date = 2025-10-02T00:00:00
