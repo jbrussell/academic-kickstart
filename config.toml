@@ -256,6 +256,11 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/JBRussell_"
+
+  [[params.social]]
+    icon = "bluesky"
+    icon_pack = "fab"
+    link = "https://bsky.app/profile/jbrussell.bsky.social"
     
   [[params.social]]
     icon = "mastodon"
