@@ -28,7 +28,7 @@ weight = 3
 
 <!-- PARALLAX HEADER, BUT SLOW -->
 <div class="item">
-  <img src="img/headers/darkOBS3_NoMelt2_vignette2.png" />
+  <img src="https://jbrussell.github.io/img/headers/darkOBS3_NoMelt2_vignette2.png" />
   <div id="overlay"></div>
 </div>
 
