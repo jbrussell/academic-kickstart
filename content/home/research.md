@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Research Areas"
-subtitle = "Underpinning all our research is the excitement of exploring the unknown. This often takes us to interesting and exotic places, including the middle of the ocean!"
+subtitle = "We use seismic wave speed, anisotropy, and attenuation to constrain structure, flow, and rheology of the upper mantle in locations that have never before been mapped. This often leads us to interesting places, including the middle of the ocean. Much of this work relies on seismic ambient noise produced by ocean waves interacting with the solid Earth, which we can extract useful signals from."
 
 # Order that this section will appear in.
 weight = 5
