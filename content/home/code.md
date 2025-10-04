@@ -8,7 +8,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Code"
-subtitle = "Open coding helps push science forward and improves reproducibility. Our group is commited to code sharing and developing community tools. Listed here are a few that we use and/or actively develop for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
+subtitle = "Open coding helps push science forward and improves reproducibility. Our group is committed to code sharing and developing community tools. Listed here are a few that we use and/or actively develop for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
 
 # Order that this section will appear in.
 weight = 30

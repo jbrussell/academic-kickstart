@@ -49,9 +49,9 @@ weight = 5
 
 The seismology group in the [Department of Earth and Environmental Sciences](https://thecollege.syr.edu/earth-sciences-department/) at Syracuse University focuses on using seismic waves to image Earth's crust and upper mantle to understand tectonic processes. We are interested in questions pertaining to the mechanics of extensional environments (from continental rifting to seafloor spreading), the role of melt and volatiles in the upper mantle, and Earth's thermodynamic and rheological state and how it contributes to and reflects mantle dynamics. We study these processes by building tomographic models of Earth's interior that incorporate geochemical, geodynamic, and mineral physics constraints.
 
-Seismic data can also be used as a tool for environmental sensing. Our group uses seismic data in new ways to understand environmental processes occuring at Earth's surface, such as the effect of lake ice on microseism noise in the Great Lakes region. We are also affiliated with the [Syracuse University Center for Gravitational Wave Astronomy and Astrophysics](https://gravitationalwaves.syracuse.edu/) where we are actively working on near-surface imaging for site selection for the next-generation gravitational-wave observatory [Cosmic Explorer](https://cosmicexplorer.org/).
+Seismic data can also be used as a tool for environmental sensing. Our group uses seismic data in new ways to understand environmental processes occurring at Earth's surface, such as the effect of lake ice on microseism noise in the Great Lakes region. We are also affiliated with the [Syracuse University Center for Gravitational Wave Astronomy and Astrophysics](https://gravitationalwaves.syracuse.edu/) where we are actively working on near-surface imaging for site selection for the next-generation gravitational-wave observatory [Cosmic Explorer](https://cosmicexplorer.org/).
 
-I am are currently looking for motivated students to join our research group. Please reach out to find out more about research opportunities and life at Syracuse University.
+I am currently looking for motivated students to join our research group. Please reach out to find out more about research opportunities and life at Syracuse University.
 
 <!-- I also have an interest in using [data visualization and sonification](#outreach) as a tool for science communication and outreach. -->
 

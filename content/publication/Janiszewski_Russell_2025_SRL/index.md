@@ -1,10 +1,10 @@
 +++
-title = "Understanding Sub-Lithospheric Small-Scale Convection By Linking Models of Grain Size Evolution, Mantle Convection and Seismic Tomography"
-date = 2025-03-04T00:00:00
+title = "Ambient Noise Analyses at Broadband Ocean Bottom Seismometers: Data Quality and Transfer Function Corrections"
+date = 2025-02-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["J. Dannberg", "Z. Eilon", "**J.B. Russell**", "R. Gassmöller"]
+authors = ["H.A. Janiszewski", "**J.B. Russell**"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["J. Dannberg", "Z. Eilon", "**J.B. Russell**", "R. Gassmöller"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Geochemistry, Geophysics, Geosystems*"
-publication_short = "*Geochemistry, Geophysics, Geosystems*"
+publication = "*Seismological Research Letters*"
+publication_short = "*Seismological Research Letters*"
 
 # JBR - edit in publication_li_*.html
 # Optional external URL for project (replaces project detail page).
-external_link = "https://doi.org/10.1029/2025GC012289"
+external_link = "https://doi.org/10.1785/0220250106"
 
 # Links (optional).
-url_pdf = "pdf/Dannberg_et_al_2025_G3.pdf"
+url_pdf = "pdf/Janiszewski_Russell_2025_SRL.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

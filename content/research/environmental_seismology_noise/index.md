@@ -56,7 +56,7 @@ external_link = ""
 
 <div style="display: flex; align-items: center;">
   <p>
-    How can seismology tell us about environmental processes? Seismometers measure vibrations occuring at Earth's surface due to people, cars, earthquakes, ocean waves, and a range of other environmental phoenomena. Therefore, seismology can be used as an effective tool for understanding interactions between the solid Earth, cryosphere, hydrosphere, and atmosphere. Many of the tools we develop for imaging the Earth's deep interior using seismic noise can be shifted to higher frequency and repurposed for studying near-surface and environmental problems. We work on problems such as the effect of lake ice on seismic noise and using seismic observations to estimate ice cover.
+    How can seismology tell us about environmental processes? Seismometers measure vibrations occurring at Earth's surface due to people, cars, earthquakes, ocean waves, and a range of other environmental phoenomena. Therefore, seismology can be used as an effective tool for understanding interactions between the solid Earth, cryosphere, hydrosphere, and atmosphere. Many of the tools we develop for imaging the Earth's deep interior using seismic noise can be shifted to higher frequency and repurposed for studying near-surface and environmental problems. We work on problems such as the effect of lake ice on seismic noise and using seismic observations to estimate ice cover.
   </p>
   <figure style="margin: 0; text-align: center; flex-shrink: 0;">
     <img src="ice.png" alt="" 
@@ -100,7 +100,7 @@ Related publications:
 
 - [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research.](https://doi.org/10.1029/2021JB022955)
 
-- [H.A. Janisewski, **J.B. Russell** (2025). Ambient Noise Analyses at Broadband Ocean Bottom Seismometers: Data Quality and Transfer Function Corrections. Seismological Research Letters](https://doi.org/10.1785/0220250106)
+- [H.A. Janiszewski, **J.B. Russell** (2025). Ambient Noise Analyses at Broadband Ocean Bottom Seismometers: Data Quality and Transfer Function Corrections. Seismological Research Letters](https://doi.org/10.1785/0220250106)
 
 - [H.A. Janiszewski, Z.C. Eilon, **J.B. Russell**, B. Brunsvik, J.B. Gaherty, S.G. Mosher, W.B. Hawley, S. Coats (2023). Broad-band ocean bottom seismometer noise properties. Geophysical Journal International.](https://doi.org/10.1093/gji/ggac450)
 
