@@ -28,18 +28,20 @@ weight = 3
 
 <!-- PARALLAX HEADER, BUT SLOW -->
 <div class="item">
-  <img src="img/headers/darkOBS3_NoMelt2_vignette2.png" />
-  <div id="overlay"></div>
+  <img src="https://jbrussell.github.io/img/headers/Langseth_2025.jpg" style="filter: brightness(0.8);"/>
+  <!-- <div id="overlay"></div> -->
 </div>
 
 
-<a class="button3" href="#about"><font face="raleway" color="#d6d6d6"><b> Seismology & Earth Structure Imaging </b>  at Syracuse University </font></a>
+<a class="button3" href="#about"><font face="raleway" color="#FFFFFF">
+<br></br>
+<b> Seismology & Earth Structure Imaging </b>  at Syracuse University </font></a>
 <div class="bottom"><font size="-1"></font></div>
 
 <div style="display: table; height: 300px; overflow: hidden;">
   <div style="display: table-cell; vertical-align: top;">
     <div>
-      <font size="-1" color="#d6d6d6" face="montserrat">
+      <font size="-1" color="#FFFFFF" face="montserrat">
       <i>
       </i>
       </font>
@@ -51,9 +53,9 @@ weight = 3
 <div style="display: table; height: 800px; overflow: hidden;">
   <div style="display: table-cell; vertical-align: top;">
     <div>
-      <font size="-1" color="#d6d6d6" face="montserrat">
+      <font size="-1" color="#FFFFFF" face="montserrat">
       <i>
-      Global background seismicity since 1990 and great circle paths for 150 earthquakes >M5.5 recorded at the NoMelt OBS array in 2012.
+      View from the R/V Marcus G. Langseth (starboard side) somewhere in the Pacific in transit to the Galápagos Triple Junction
       </i>
       </font>
     </div>
