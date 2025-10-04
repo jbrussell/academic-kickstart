@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Research"
-subtitle = ""
+title = "Research Areas"
+subtitle = "Underpinning all our research is the excitement of exploring the unknown. This often takes us to interesting and exotic places, including the middle of the ocean!"
 
 # Order that this section will appear in.
 weight = 5
@@ -18,11 +18,11 @@ folder = "research"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards, 2 = showcase.
-view = 1
+view = 2
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
-widget_layout = 1
+widget_layout = 0
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows = false
@@ -45,12 +45,21 @@ filter_default = 0
    tag = "Seismic Anisotropy"
 
  [[filter]]
-   name = "Tools"
-   tag = "Tools"
+   name = "Seismic Attenuation"
+   tag = "Seismic Attenuation"
    
  [[filter]]
-   name = "Wave Propagation"
-   tag = "Wave Propagation"
+   name = "3D Imaging"
+   tag = "3D Imaging"
+
+ [[filter]]
+   name = "Ambient Noise"
+   tag = "Ambient Noise"
+
+ [[filter]]
+   name = "OBS"
+   tag = "OBS"
 
 +++
+
 

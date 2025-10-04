@@ -10,7 +10,8 @@ highlight = false
 # caption = "Archived course materials are provided as-is."
 
 +++
-\
+
+---
 \
 \
 # **Current researchers**
