@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Inverse Theory, Imaging Methods, and Community Tools"
+title = "Inverse Theory, Imaging Methods, & Community Tools"
 
 # Date this page was created.
 date = 2017-10-30T00:00:00

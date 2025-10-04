@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Structure and Dynamics of the Oceanic Lithosphere-Asthenosphere System"
+title = "Structure & Dynamics of the Oceanic Lithosphere-Asthenosphere System"
 
 # Date this page was created.
 date = 2025-10-01T00:00:00

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Environmental Seismology, Ambient Noise, and Ground Motion"
+title = "Environmental Seismology, Ambient Noise, & Ground Motion"
 
 # Date this page was created.
 date = 2018-10-28T00:00:00
