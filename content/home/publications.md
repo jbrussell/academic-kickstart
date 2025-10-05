@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Publications"
+title = "Recent Publications [<i class='ai ai-google-scholar'></i>](https://scholar.google.com/citations?user=oEX_DIIAAAAJ&hl=en)"
 subtitle = ""
 
 # Order that this section will appear in.

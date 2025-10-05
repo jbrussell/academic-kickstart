@@ -71,3 +71,7 @@ caption = ""
 {{< gallery album="1">}}
 
 ### Young Pacific ORCA, South Pacific, 2018
+
+### Langseth, Eastern Pacific, 2025
+
+### Langseth, Atlantic, 2026

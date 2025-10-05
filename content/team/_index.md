@@ -1,5 +1,5 @@
 +++
-title = "Team"
+title = "The Team"
 date = "2025-10-02T00:00:00Z"
 math = false
 highlight = false

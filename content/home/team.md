@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Team"
-subtitle = ""
+title = "The Team"
+subtitle = "## [Learn More <i class='fa-solid fa-people-group'></i>](/team)"
 
 # Order that this section will appear in.
 weight = 10

@@ -7,8 +7,9 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Code"
-subtitle = "Open coding helps push science forward and improves reproducibility. Our group is committed to code sharing and developing community tools. Listed here are a few that we use and/or actively develop for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more."
+title = "Code [<i class='fa-brands fa-github'></i>](https://github.com/jbrussell)"
+subtitle = "Open coding helps push science forward and improves reproducibility. Our group is committed to code sharing and developing community tools. Listed here are a few that we use and/or actively develop for surface-wave measurements & imaging, ocean-bottom seismic data processing, anelastic modeling, and more." 
+# <br><br/><div class='github-widget' data-username='jbrussell'></div> <script src='https://unpkg.com/github-card@1.2.1/dist/widget.js'></script>
 
 # Order that this section will appear in.
 weight = 30
