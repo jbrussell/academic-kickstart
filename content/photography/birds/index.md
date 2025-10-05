@@ -90,6 +90,8 @@ caption = "Roseate Spoonbill, Houston, TX"
 
 +++
 
-My passion for birds began in high school during a summer field biology class that focused on bird banding in southwestern Missouri. While in college as a physics student, I continued to birdwatch (or simply *bird*) as often as I could and even took an ornithology course in my final year. More recently, I've taken to the photography side of birding and bring my camera everywhere I go, whether it's for fieldwork, a conference, or on vacation.
+My passion for birds began in high school during a bird banding field class that also first spurred my curiosity in science. As a physics major in college, I continued to bird as often as I could and took an ornithology course in my final year. Starting grad school in NYC I thought I'd have to give up "real" birding, but it turns out — like with many things — NYC is an *incredible* place for birdwatching. This documentary does a great job of conveying that: [Birders: The Central Park Effect](https://www.imdb.com/title/tt2310157/). More recently, I've taken to the photography side of birding and bring my camera most places I go, whether it's fieldwork, a conference, or vacation. 
+
+Syracuse has some phenomenal birding nearby, including on campus! Red-tailed hawks [Sue and Otto](https://artsandsciences.syracuse.edu/alumni/nest-cam/syracuse-university-red-tailed-hawk-family/) had been nesting on the SU campus from 2012–2023, raising 28 chicks. Now Oren and Ruth have taken their place and can often be seen (or heard) while walking between the Earth Sciences building and Marshal Street.
 
 {{< gallery album="1" >}}
