@@ -55,7 +55,7 @@ weight = 3
     <div>
       <font size="-1" color="#FFFFFF" face="montserrat">
       <i>
-      View from the R/V Marcus G. Langseth (starboard side) somewhere in the Pacific in transit to the Galápagos Triple Junction
+      View from the R/V Marcus G. Langseth (starboard side) in transit to the Galápagos Triple Junction
       </i>
       </font>
     </div>
