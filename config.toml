@@ -111,7 +111,8 @@ enableGitInfo = false
   description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-  sharing_image = "headers/darkOBS3_NoMelt2_vignette2.png"
+  #sharing_image = "headers/darkOBS3_NoMelt2_vignette2.png"
+  sharing_image = "headers/Langseth_2025.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
   twitter = "JBRussell_"
@@ -127,10 +128,10 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = true
@@ -170,7 +171,7 @@ enableGitInfo = false
   highlight_style = "atom-one-dark"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
