@@ -69,9 +69,9 @@ external_link = ""
 
 Related publications:
 
-- [**J.B. Russell**, C.J.W. Carchedi (2026). Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL120498)
+- [**J.B. Russell**, C.J.W. Carchedi (2026). Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise. *Geophysical Research letters*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL120498)
 
--  [J.M. Maurer, J.M. Schaefer, **J.B. Russell**, S. Rupper, N. Wangdi, A. Putnam, N. Young (2020). Seismic observations, numerical modeling, and geomorphic analysis of a glacier lake outburst flood in the Himalayas. Science Advances.](https://advances.sciencemag.org/content/6/38/eaba3645)
+-  [J.M. Maurer, J.M. Schaefer, **J.B. Russell**, S. Rupper, N. Wangdi, A. Putnam, N. Young (2020). Seismic observations, numerical modeling, and geomorphic analysis of a glacier lake outburst flood in the Himalayas. *Science Advances*.](https://advances.sciencemag.org/content/6/38/eaba3645)
 
 \
 \
@@ -98,11 +98,11 @@ Related publications:
 
 Related publications:
 
-- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research.](https://doi.org/10.1029/2021JB022955)
+- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. *Journal of Geophysical Research*.](https://doi.org/10.1029/2021JB022955)
 
-- [H.A. Janiszewski, **J.B. Russell** (2025). Ambient Noise Analyses at Broadband Ocean Bottom Seismometers: Data Quality and Transfer Function Corrections. Seismological Research Letters](https://doi.org/10.1785/0220250106)
+- [H.A. Janiszewski, **J.B. Russell** (2025). Ambient Noise Analyses at Broadband Ocean Bottom Seismometers: Data Quality and Transfer Function Corrections. *Seismological Research Letters*](https://doi.org/10.1785/0220250106)
 
-- [H.A. Janiszewski, Z.C. Eilon, **J.B. Russell**, B. Brunsvik, J.B. Gaherty, S.G. Mosher, W.B. Hawley, S. Coats (2023). Broad-band ocean bottom seismometer noise properties. Geophysical Journal International.](https://doi.org/10.1093/gji/ggac450)
+- [H.A. Janiszewski, Z.C. Eilon, **J.B. Russell**, B. Brunsvik, J.B. Gaherty, S.G. Mosher, W.B. Hawley, S. Coats (2023). Broad-band ocean bottom seismometer noise properties. *Geophysical Journal International*.](https://doi.org/10.1093/gji/ggac450)
 
 
 \

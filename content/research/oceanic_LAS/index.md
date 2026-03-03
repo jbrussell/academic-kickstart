@@ -78,15 +78,15 @@ Oceanic lithosphere covers a majority of the Earth's surface, but the oceans are
 
 Related publications:
 
-- [**J.B. Russell**, J.B. Gaherty, P.Y. Lin, D. Lizarralde, J.A. Collins, G. Hirth, R.L. Evans (2019). High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy. Journal of Geophysical Research: Solid Earth.](https://doi.org/10.1029/2018JB016598)
+- [**J.B. Russell**, J.B. Gaherty, P.Y. Lin, D. Lizarralde, J.A. Collins, G. Hirth, R.L. Evans (2019). High-Resolution Constraints on Pacific Upper Mantle Petrofabric Inferred From Surface-Wave Anisotropy. *Journal of Geophysical Research: Solid Earth*.](https://doi.org/10.1029/2018JB016598)
 
-- [**J.B. Russell**, J.B. Gaherty. Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research, 2021.](https://doi.org/10.1029/2021JB022955)
+- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. *Journal of Geophysical Research*.](https://doi.org/10.1029/2021JB022955)
 
-- [Dannberg, Z. Eilon, **J.B. Russell**, R. Gassmöller (2025). Understanding Sub-Lithospheric Small-Scale Convection By Linking Models of Grain Size Evolution, Mantle Convection and Seismic Tomography. Geochemistry, Geophysics, Geosystems.](https://doi.org/10.1029/2025GC012289)
+- [Dannberg, Z. Eilon, **J.B. Russell**, R. Gassmöller (2025). Understanding Sub-Lithospheric Small-Scale Convection By Linking Models of Grain Size Evolution, Mantle Convection and Seismic Tomography. *Geochemistry, Geophysics, Geosystems*.](https://doi.org/10.1029/2025GC012289)
 
-- [ Z.C. Eilon, L. Zhang, J.B. Gaherty, D.W. Forsyth, **J.B. Russell** (2022). Sub-Lithospheric Small-Scale Convection Tomographically Imaged Beneath the Pacific Plate. Geophysical Research Letters.](https://doi.org/10.1029/2022GL100351)
+- [ Z.C. Eilon, L. Zhang, J.B. Gaherty, D.W. Forsyth, **J.B. Russell** (2022). Sub-Lithospheric Small-Scale Convection Tomographically Imaged Beneath the Pacific Plate. *Geophysical Research Letters*.](https://doi.org/10.1029/2022GL100351)
 
-- [Z. Ma, C.A. Dalton, **J.B. Russell**, J.B. Gaherty, G. Hirth, D.W. Forsyth (2020). Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle. Earth & Planetary Science Letters.](https://doi.org/10.1016/j.epsl.2020.116148)
+- [Z. Ma, C.A. Dalton, **J.B. Russell**, J.B. Gaherty, G. Hirth, D.W. Forsyth (2020). Shear Attenuation and Anelastic Mechanisms in the Central Pacific Upper Mantle. *Earth & Planetary Science Letters*.](https://doi.org/10.1016/j.epsl.2020.116148)
 
 
 \
@@ -116,9 +116,9 @@ Related publications:
 
 Related publications:
 
-- [**J.B. Russell**, J.B. Gaherty, H.F. Mark, G. Hirth, L.N. Hansen, D. Lizarralde, J.A. Collins, R.L. Evans (2022). Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading. Geochemistry, Geophysics, Geosystems.](https://doi.org/10.1029/2022GC010542)
+- [**J.B. Russell**, J.B. Gaherty, H.F. Mark, G. Hirth, L.N. Hansen, D. Lizarralde, J.A. Collins, R.L. Evans (2022). Seismological evidence for girdled olivine lattice-preferred orientation in oceanic lithosphere and implications for mantle deformation processes during seafloor spreading. *Geochemistry, Geophysics, Geosystems*.](https://doi.org/10.1029/2022GC010542)
 
-- [**J.B. Russell**, C.A. Dalton, Z. Eilon, J.B. Gaherty, C. Havlin, B. Holtzman, J. Phillips, A. Hariharan, D.W. Forsyth. Seismic attenuation reveals large viscosity variations with little melt beneath Pacific plate. (in prep)](prep)
+- [**J.B. Russell**, C.A. Dalton, Z. Eilon, J.B. Gaherty, C. Havlin, B. Holtzman, J. Phillips, A. Hariharan, D.W. Forsyth. Seismic attenuation reveals large viscosity variations in a melt-poor oceanic asthenosphere. (in Revision at *Nature*)](prep)
 
 \
 \

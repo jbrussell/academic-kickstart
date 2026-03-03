@@ -86,9 +86,9 @@ math = true
 
 Related publications:
 
-- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research.](https://doi.org/10.1029/2021JB022955)
+- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. *Journal of Geophysical Research*.](https://doi.org/10.1029/2021JB022955)
 
-- [N.J. Accardo, J.B. Gaherty, D.J. Shillington, E.Hopper, A.A. Nyblade, C.J. Ebinger, C.A. Scholz, P.R.N. Chindandali, R. Wambura-Ferdinand, G. Mbogoni, **J.B. Russell**, B.K. Holtzman, C. Havlin, C. Class (2020). Thermo‐chemical modification of the Upper Mantle beneath the Northern Malawi Rift Constrained from Shear Velocity Imaging. Geochemistry, Geophysics, Geosystems.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GC008843)
+- [N.J. Accardo, J.B. Gaherty, D.J. Shillington, E.Hopper, A.A. Nyblade, C.J. Ebinger, C.A. Scholz, P.R.N. Chindandali, R. Wambura-Ferdinand, G. Mbogoni, **J.B. Russell**, B.K. Holtzman, C. Havlin, C. Class (2020). Thermo‐chemical modification of the Upper Mantle beneath the Northern Malawi Rift Constrained from Shear Velocity Imaging. *Geochemistry, Geophysics, Geosystems*.](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GC008843)
 
 \
 \

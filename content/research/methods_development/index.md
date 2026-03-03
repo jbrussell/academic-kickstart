@@ -87,11 +87,11 @@ math = true
 
 Related publications:
 
-- [**J.B. Russell**, C.A. Dalton (2022). Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography. Journal of Geophysical Research.](https://doi.org/10.1029/2022JB025174)
+- [**J.B. Russell**, C.A. Dalton (2022). Rayleigh Wave Attenuation and Amplification Measured at Ocean-Bottom Seismometer Arrays using Helmholtz Tomography. *Journal of Geophysical Research*.](https://doi.org/10.1029/2022JB025174)
 
-- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. Journal of Geophysical Research.](https://doi.org/10.1029/2021JB022955)
+- [**J.B. Russell**, J.B. Gaherty (2021). Lithosphere structure and seismic anisotropy offshore eastern North America: Implications for continental breakup and ultra-slow spreading dynamics. *Journal of Geophysical Research*.](https://doi.org/10.1029/2021JB022955)
 
-- [W. Menke, **J.B. Russell** (2020). Non-Double-Couple Components of the Moment Tensor in a Transversely Isotropic Medium. Bulletin of the Seismological Society of America.](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/doi/10.1785/0120190319/584672/Non-Double-Couple-Components-of-the-Moment-Tensor?redirectedFrom=fulltext)
+- [W. Menke, **J.B. Russell** (2020). Non-Double-Couple Components of the Moment Tensor in a Transversely Isotropic Medium. *Bulletin of the Seismological Society of America*.](https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/doi/10.1785/0120190319/584672/Non-Double-Couple-Components-of-the-Moment-Tensor?redirectedFrom=fulltext)
 
 \
 \
@@ -131,11 +131,11 @@ Related publications:
 
 Related publications:
 
-- [**J.B. Russell**, Z. Eilon, S.G. Mosher (2019). OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers. Seismological Research Letters.](https://doi.org/10.1785/0220180336)
+- [**J.B. Russell**, Z. Eilon, S.G. Mosher (2019). OBSrange: A New Tool for the Precise Remote Location of Ocean-Bottom Seismometers. *Seismological Research Letters*.](https://doi.org/10.1785/0220180336)
 
-- [H.A. Janiszewski, Z.C. Eilon, **J.B. Russell**, B. Brunsvik, J.B. Gaherty, S.G. Mosher, W.B. Hawley, S. Coats (2023). Broad-band ocean bottom seismometer noise properties. Geophysical Journal International.](https://doi.org/10.1093/gji/ggac450)
+- [H.A. Janiszewski, Z.C. Eilon, **J.B. Russell**, B. Brunsvik, J.B. Gaherty, S.G. Mosher, W.B. Hawley, S. Coats (2023). Broad-band ocean bottom seismometer noise properties. *Geophysical Journal International*.](https://doi.org/10.1093/gji/ggac450)
 
-- [Havlin, C., Chavan, K., Holtzman, B., **J.B. Russell**, Hariharan, A., Hopper, E., et al. (2025). vbr‐calc/vbr: Release v1.2.1. Zenodo.](https://doi.org/10.5281/zenodo.14674537)
+- [Havlin, C., Chavan, K., Holtzman, B., **J.B. Russell**, Hariharan, A., Hopper, E., et al. (2025). vbr‐calc/vbr: Release v1.2.1. *Zenodo*.](https://doi.org/10.5281/zenodo.14674537)
 
 \
 \
