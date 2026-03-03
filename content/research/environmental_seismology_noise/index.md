@@ -69,7 +69,7 @@ external_link = ""
 
 Related publications:
 
-- [**J.B. Russell**, C.J.W. Carchedi (2026). Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise. (in prep)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL120498)
+- [**J.B. Russell**, C.J.W. Carchedi (2026). Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025GL120498)
 
 -  [J.M. Maurer, J.M. Schaefer, **J.B. Russell**, S. Rupper, N. Wangdi, A. Putnam, N. Young (2020). Seismic observations, numerical modeling, and geomorphic analysis of a glacier lake outburst flood in the Himalayas. Science Advances.](https://advances.sciencemag.org/content/6/38/eaba3645)
 
